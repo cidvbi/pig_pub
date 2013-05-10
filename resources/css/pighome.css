@@ -1,0 +1,41 @@
+/*
+.p-toolbar-bacteria .x-box-inner{
+	background-color: #9CF;
+}
+
+.p-toolbar-viruses .x-box-inner{
+	background-color: #F66;
+}
+
+.p-toolbar-eupaths .x-box-inner{
+	background-color: #F96;
+}
+
+.p-toolbar-hosts .x-box-inner{
+	background-color: #6F6;
+}
+*/
+
+.p-toolbar-bottom .x-box-inner{
+	background-color: #EEE;
+}
+
+.p-btn-off {
+  background-color: #DBEEFF;
+  background-image: -webkit-linear-gradient(bottom, #DBEEFF, #D0E7FF 48%, #BBD2F0 52%, #BED6F5);
+  background-image: -moz-linear-gradient(bottom, #DBEEFF, #D0E7FF 48%, #BBD2F0 52%, #BED6F5);
+  background-image: -ms-linear-gradient(bottom, #DBEEFF, #D0E7FF 48%, #BBD2F0 52%, #BED6F5);
+  background-image: -o-linear-gradient(bottom, #DBEEFF, #D0E7FF 48%, #BBD2F0 52%, #BED6F5);
+  background-image: linear-gradient(to top, #DBEEFF, #D0E7FF 48%, #BBD2F0 52%, #BED6F5);
+  border-color: #81A4D0;
+}
+
+.p-btn-over {
+  background-color: #DBEEFF;
+  background-image: -webkit-linear-gradient(top, #DBEEFF, #D0E7FF 48%, #BBD2F0 52%, #BED6F5);
+  background-image: -moz-linear-gradient(top, #DBEEFF, #D0E7FF 48%, #BBD2F0 52%, #BED6F5);
+  background-image: -ms-linear-gradient(top, #DBEEFF, #D0E7FF 48%, #BBD2F0 52%, #BED6F5);
+  background-image: -o-linear-gradient(top, #DBEEFF, #D0E7FF 48%, #BBD2F0 52%, #BED6F5);
+  background-image: linear-gradient(to bottom, #DBEEFF, #D0E7FF 48%, #BBD2F0 52%, #BED6F5);
+  border-color: #81A4D0;
+}

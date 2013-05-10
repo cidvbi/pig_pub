@@ -1,0 +1,1027 @@
+{text:"Viruses", expanded: true, rollup: false, checked: false, taxid: "10239", children: [
+	{text:"Potyviridae", expanded: false, rollup: false, checked: false, taxid: "39729", children: [
+		{text:"Tritimovirus", expanded: false, rollup: true, checked: false, taxid: "156207", children: [
+			{text:"Wheat streak mosaic virus", expanded: true, rollup: true, checked: false, taxid: "31741", children: [
+					{text:"Wheat streak mosaic virus", leaf: true, checked: false, rollup: true, common_name: "31741", taxid: "31741"}
+			]}
+		]},
+		{text:"Potyvirus", expanded: false, rollup: true, checked: false, taxid: "12195", children: [
+			{text:"Tobacco etch virus", expanded: true, rollup: true, checked: false, taxid: "12227", children: [
+					{text:"Tobacco etch virus", leaf: true, checked: false, rollup: true, common_name: "12227", taxid: "12227"}
+			]},
+			{text:"Tobacco vein mottling virus", expanded: true, rollup: true, checked: false, taxid: "12228", children: [
+					{text:"Tobacco vein mottling virus", leaf: true, checked: false, rollup: true, common_name: "12228", taxid: "12228"}
+			]},
+			{text:"Potato virus A", expanded: true, rollup: true, checked: false, taxid: "12215", children: [
+					{text:"Potato virus A", leaf: true, checked: false, rollup: true, common_name: "12215", taxid: "12215"}
+			]},
+			{text:"Pea seed-borne mosaic virus", expanded: true, rollup: true, checked: false, taxid: "12208", children: [
+					{text:"Pea seed-borne mosaic virus", leaf: true, checked: false, rollup: true, common_name: "12208", taxid: "12208"}
+			]},
+			{text:"Clover yellow vein virus", expanded: true, rollup: true, checked: false, taxid: "12198", children: [
+					{text:"Clover yellow vein virus", leaf: true, checked: false, rollup: true, common_name: "12198", taxid: "12198"}
+			]},
+			{text:"Soybean mosaic virus", expanded: true, rollup: true, checked: false, taxid: "12222", children: [
+					{text:"Soybean mosaic virus", leaf: true, checked: false, rollup: true, common_name: "12222", taxid: "12222"}
+			]}
+		]}
+	]},
+	{text:"Leviviridae", expanded: false, rollup: false, checked: false, taxid: "11989", children: [
+		{text:"Levivirus", expanded: false, rollup: true, checked: false, taxid: "11990", children: [
+			{text:"Enterobacteria phage MS2", expanded: true, rollup: true, checked: false, taxid: "329852", children: [
+					{text:"Enterobacteria phage MS2", leaf: true, checked: false, rollup: true, common_name: "329852", taxid: "329852"}
+			]}
+		]}
+	]},
+	{text:"Mononegavirales", expanded: false, rollup: false, checked: false, taxid: "11157", children: [
+		{text:"Bornaviridae", expanded: false, rollup: true, checked: false, taxid: "178830", children: [
+			{text:"Bornavirus", expanded: true, rollup: true, checked: false, taxid: "186458", children: [
+				{text:"Borna disease virus", expanded: true, rollup: true, checked: false, taxid: "12455", children: [
+						{text:"Borna disease virus", leaf: true, checked: false, rollup: true, common_name: "12455", taxid: "12455"}
+				]}
+			]}
+		]},
+		{text:"Paramyxoviridae", expanded: false, rollup: true, checked: false, taxid: "11158", children: [
+			{text:"Morbillivirus", expanded: true, rollup: true, checked: false, taxid: "11229", children: [
+				{text:"Rinderpest virus", expanded: true, rollup: true, checked: false, taxid: "11241", children: [
+						{text:"Rinderpest virus (strain Kabete O)", leaf: true, checked: false, rollup: true, common_name: "11242", taxid: "11242"}
+				]},
+				{text:"Measles virus", expanded: true, rollup: true, checked: false, taxid: "11234", children: [
+						{text:"Measles virus strain AIK-C", leaf: true, checked: false, rollup: true, common_name: "36408", taxid: "36408"},
+						{text:"Measles virus strain Edmonston", leaf: true, checked: false, rollup: true, common_name: "11235", taxid: "11235"},
+						{text:"Measles virus", leaf: true, checked: false, rollup: true, common_name: "11234", taxid: "11234"},
+						{text:"Measles virus strain Edmonston-Zagreb", leaf: true, checked: false, rollup: true, common_name: "70149", taxid: "70149"},
+						{text:"Measles virus strain Edmonston-B", leaf: true, checked: false, rollup: true, common_name: "70146", taxid: "70146"},
+						{text:"Measles virus strain Ichinose-B95a", leaf: true, checked: false, rollup: true, common_name: "645098", taxid: "645098"},
+						{text:"Measles virus strain Schwarz", leaf: true, checked: false, rollup: true, common_name: "132487", taxid: "132487"}
+				]}
+			]},
+			{text:"Henipavirus", expanded: true, rollup: true, checked: false, taxid: "260964", children: [
+				{text:"Nipah virus", expanded: true, rollup: true, checked: false, taxid: "121791", children: [
+						{text:"Nipah virus", leaf: true, checked: false, rollup: true, common_name: "121791", taxid: "121791"}
+				]},
+				{text:"Hendra virus", expanded: true, rollup: true, checked: false, taxid: "63330", children: [
+						{text:"Hendra virus", leaf: true, checked: false, rollup: true, common_name: "63330", taxid: "63330"},
+						{text:"Hendra virus horse/Australia/Hendra/1994", leaf: true, checked: false, rollup: true, common_name: "928303", taxid: "928303"}
+				]}
+			]},
+			{text:"Pneumovirus", expanded: true, rollup: true, checked: false, taxid: "11245", children: [
+				{text:"Human respiratory syncytial virus", expanded: true, rollup: true, checked: false, taxid: "11250", children: [
+						{text:"Human respiratory syncytial virus", leaf: true, checked: false, rollup: true, common_name: "11250", taxid: "11250"},
+						{text:"Human respiratory syncytial virus A2", leaf: true, checked: false, rollup: true, common_name: "11259", taxid: "11259"}
+				]},
+				{text:"Bovine respiratory syncytial virus", expanded: true, rollup: true, checked: false, taxid: "11246", children: [
+						{text:"Bovine respiratory syncytial virus", leaf: true, checked: false, rollup: true, common_name: "11246", taxid: "11246"}
+				]},
+				{text:"Respiratory syncytial virus", expanded: true, rollup: true, checked: false, taxid: "12814", children: [
+						{text:"Respiratory syncytial virus", leaf: true, checked: false, rollup: true, common_name: "12814", taxid: "12814"}
+				]}
+			]},
+			{text:"Avulavirus", expanded: true, rollup: true, checked: false, taxid: "260963", children: [
+				{text:"Newcastle disease virus", expanded: true, rollup: true, checked: false, taxid: "11176", children: [
+						{text:"Newcastle disease virus B1/48", leaf: true, checked: false, rollup: true, common_name: "652953", taxid: "652953"},
+						{text:"Newcastle disease virus", leaf: true, checked: false, rollup: true, common_name: "11176", taxid: "11176"}
+				]}
+			]},
+			{text:"Respirovirus", expanded: true, rollup: true, checked: false, taxid: "186938", children: [
+				{text:"Sendai virus", expanded: true, rollup: true, checked: false, taxid: "11191", children: [
+						{text:"Sendai virus", leaf: true, checked: false, rollup: true, common_name: "11191", taxid: "11191"},
+						{text:"Sendai virus (strain Fushimi)", leaf: true, checked: false, rollup: true, common_name: "11195", taxid: "11195"}
+				]},
+				{text:"Human parainfluenza virus 3", expanded: true, rollup: true, checked: false, taxid: "11216", children: [
+						{text:"Human parainfluenza virus 3", leaf: true, checked: false, rollup: true, common_name: "11216", taxid: "11216"}
+				]}
+			]},
+			{text:"Rubulavirus", expanded: true, rollup: true, checked: false, taxid: "39744", children: [
+				{text:"Menangle virus", expanded: true, rollup: true, checked: false, taxid: "152219", children: [
+						{text:"Menangle virus", leaf: true, checked: false, rollup: true, common_name: "152219", taxid: "152219"}
+				]},
+				{text:"Mapuera virus", expanded: true, rollup: true, checked: false, taxid: "43140", children: [
+						{text:"Mapuera virus", leaf: true, checked: false, rollup: true, common_name: "43140", taxid: "43140"}
+				]},
+				{text:"Tioman virus", expanded: true, rollup: true, checked: false, taxid: "162013", children: [
+						{text:"Tioman virus", leaf: true, checked: false, rollup: true, common_name: "162013", taxid: "162013"}
+				]},
+				{text:"Parainfluenza virus 5", expanded: true, rollup: true, checked: false, taxid: "11207", children: [
+						{text:"Simian virus 5 (strain W3)", leaf: true, checked: false, rollup: true, common_name: "11208", taxid: "11208"},
+						{text:"Parainfluenza virus 5", leaf: true, checked: false, rollup: true, common_name: "11207", taxid: "11207"}
+				]},
+				{text:"Mumps virus", expanded: true, rollup: true, checked: false, taxid: "11161", children: [
+						{text:"Mumps virus", leaf: true, checked: false, rollup: true, common_name: "11161", taxid: "11161"}
+				]},
+				{text:"Porcine rubulavirus", expanded: true, rollup: true, checked: false, taxid: "53179", children: [
+						{text:"Porcine rubulavirus", leaf: true, checked: false, rollup: true, common_name: "53179", taxid: "53179"}
+				]},
+				{text:"Human parainfluenza virus 2", expanded: true, rollup: true, checked: false, taxid: "11212", children: [
+						{text:"Human parainfluenza virus 2 (strain Toshiba)", leaf: true, checked: false, rollup: true, common_name: "11214", taxid: "11214"},
+						{text:"Human parainfluenza virus 2", leaf: true, checked: false, rollup: true, common_name: "11212", taxid: "11212"}
+				]}
+			]}
+		]},
+		{text:"Filoviridae", expanded: false, rollup: true, checked: false, taxid: "11266", children: [
+			{text:"Marburgvirus", expanded: true, rollup: true, checked: false, taxid: "186537", children: [
+				{text:"Marburg marburgvirus", expanded: true, rollup: true, checked: false, taxid: "11269", children: [
+						{text:"Marburg virus - Musoke, Kenya, 1980", leaf: true, checked: false, rollup: true, common_name: "33727", taxid: "33727"}
+				]}
+			]},
+			{text:"Ebolavirus", expanded: true, rollup: true, checked: false, taxid: "186536", children: [
+				{text:"Reston ebolavirus", expanded: true, rollup: true, checked: false, taxid: "186539", children: [
+						{text:"Reston ebolavirus", leaf: true, checked: false, rollup: true, common_name: "186539", taxid: "186539"}
+				]},
+				{text:"Zaire ebolavirus", expanded: true, rollup: true, checked: false, taxid: "186538", children: [
+						{text:"Zaire ebolavirus", leaf: true, checked: false, rollup: true, common_name: "186538", taxid: "186538"},
+						{text:"Ebola virus - Mayinga, Zaire, 1976", leaf: true, checked: false, rollup: true, common_name: "128952", taxid: "128952"}
+				]}
+			]}
+		]},
+		{text:"Rhabdoviridae", expanded: false, rollup: true, checked: false, taxid: "11270", children: [
+			{text:"Lyssavirus", expanded: true, rollup: true, checked: false, taxid: "11286", children: [
+				{text:"Rabies virus", expanded: true, rollup: true, checked: false, taxid: "11292", children: [
+						{text:"Rabies virus", leaf: true, checked: false, rollup: true, common_name: "11292", taxid: "11292"}
+				]},
+				{text:"Mokola virus", expanded: true, rollup: true, checked: false, taxid: "12538", children: [
+						{text:"Mokola virus", leaf: true, checked: false, rollup: true, common_name: "12538", taxid: "12538"}
+				]}
+			]},
+			{text:"Vesiculovirus", expanded: true, rollup: true, checked: false, taxid: "11271", children: [
+				{text:"Vesicular stomatitis Indiana virus", expanded: true, rollup: true, checked: false, taxid: "11277", children: [
+						{text:"Vesicular stomatitis Indiana virus", leaf: true, checked: false, rollup: true, common_name: "11277", taxid: "11277"},
+						{text:"Vesicular stomatitis Indiana virus strain Orsay", leaf: true, checked: false, rollup: true, common_name: "11284", taxid: "11284"},
+						{text:"Vesicular stomatitis Indiana virus strain San Juan", leaf: true, checked: false, rollup: true, common_name: "11285", taxid: "11285"}
+				]},
+				{text:"Vesicular stomatitis virus", expanded: true, rollup: true, checked: false, taxid: "11276", children: [
+						{text:"Vesicular stomatitis virus", leaf: true, checked: false, rollup: true, common_name: "11276", taxid: "11276"}
+				]},
+				{text:"Vesicular stomatitis New Jersey virus", expanded: true, rollup: true, checked: false, taxid: "11280", children: [
+						{text:"Vesicular stomatitis New Jersey virus", leaf: true, checked: false, rollup: true, common_name: "11280", taxid: "11280"}
+				]}
+			]}
+		]}
+	]},
+	{text:"Tombusviridae", expanded: false, rollup: false, checked: false, taxid: "39738", children: [
+		{text:"Tombusvirus", expanded: false, rollup: true, checked: false, taxid: "12141", children: [
+			{text:"Tomato bushy stunt virus", expanded: true, rollup: true, checked: false, taxid: "12145", children: [
+					{text:"Tomato bushy stunt virus", leaf: true, checked: false, rollup: true, common_name: "12145", taxid: "12145"}
+			]}
+		]}
+	]},
+	{text:"Nidovirales", expanded: false, rollup: false, checked: false, taxid: "76804", children: [
+		{text:"Arteriviridae", expanded: false, rollup: true, checked: false, taxid: "76803", children: [
+			{text:"Arterivirus", expanded: true, rollup: true, checked: false, taxid: "11046", children: [
+				{text:"Equine arteritis virus", expanded: true, rollup: true, checked: false, taxid: "11047", children: [
+						{text:"Equine arteritis virus", leaf: true, checked: false, rollup: true, common_name: "11047", taxid: "11047"}
+				]},
+				{text:"Porcine reproductive and respiratory syndrome virus", expanded: true, rollup: true, checked: false, taxid: "28344", children: [
+						{text:"Porcine reproductive and respiratory syndrome virus", leaf: true, checked: false, rollup: true, common_name: "28344", taxid: "28344"}
+				]}
+			]}
+		]},
+		{text:"Coronaviridae", expanded: false, rollup: true, checked: false, taxid: "11118", children: [
+			{text:"Alphacoronavirus", expanded: true, rollup: true, checked: false, taxid: "693996", children: [
+				{text:"Human coronavirus NL63", expanded: true, rollup: true, checked: false, taxid: "277944", children: [
+						{text:"Human coronavirus NL63", leaf: true, checked: false, rollup: true, common_name: "277944", taxid: "277944"}
+				]}
+			]},
+			{text:"Betacoronavirus", expanded: true, rollup: true, checked: false, taxid: "694002", children: [
+				{text:"Severe acute respiratory syndrome-related coronavirus", expanded: true, rollup: true, checked: false, taxid: "694009", children: [
+						{text:"SARS coronavirus", leaf: true, checked: false, rollup: true, common_name: "227859", taxid: "227859"},
+						{text:"SARS coronavirus HSR 1", leaf: true, checked: false, rollup: true, common_name: "235088", taxid: "235088"}
+				]},
+				{text:"Murine coronavirus", expanded: true, rollup: true, checked: false, taxid: "694005", children: [
+						{text:"Murine hepatitis virus strain A59", leaf: true, checked: false, rollup: true, common_name: "11142", taxid: "11142"}
+				]}
+			]},
+			{text:"Gammacoronavirus", expanded: true, rollup: true, checked: false, taxid: "694013", children: [
+				{text:"Avian coronavirus", expanded: true, rollup: true, checked: false, taxid: "694014", children: [
+						{text:"Infectious bronchitis virus", leaf: true, checked: false, rollup: true, common_name: "11120", taxid: "11120"}
+				]}
+			]}
+		]}
+	]},
+	{text:"Caudovirales", expanded: false, rollup: false, checked: false, taxid: "28883", children: [
+		{text:"Myoviridae", expanded: false, rollup: true, checked: false, taxid: "10662", children: [
+			{text:"Clostridium phage c-st", expanded: true, rollup: true, checked: false, taxid: "12336", children: [
+					{text:"Clostridium botulinum D phage", leaf: true, checked: false, rollup: true, common_name: "29342", taxid: "29342"}
+			]},
+			{text:"P1-like viruses", expanded: true, rollup: true, checked: false, taxid: "186789", children: [
+				{text:"Enterobacteria phage P1", expanded: true, rollup: true, checked: false, taxid: "10678", children: [
+						{text:"Enterobacteria phage P1", leaf: true, checked: false, rollup: true, common_name: "10678", taxid: "10678"}
+				]}
+			]},
+			{text:"Bacillus phage PBS2", expanded: true, rollup: true, checked: false, taxid: "10684", children: [
+					{text:"Bacillus phage PBS2", leaf: true, checked: false, rollup: true, common_name: "10684", taxid: "10684"}
+			]},
+			{text:"T4-like viruses", expanded: true, rollup: true, checked: false, taxid: "10663", children: [
+				{text:"Enterobacteria phage T4 sensu lato", expanded: true, rollup: true, checked: false, taxid: "348604", children: [
+						{text:"Enterobacteria phage T4", leaf: true, checked: false, rollup: true, common_name: "10665", taxid: "10665"}
+				]}
+			]}
+		]},
+		{text:"Siphoviridae", expanded: false, rollup: true, checked: false, taxid: "10699", children: [
+			{text:"Lambda-like viruses", expanded: true, rollup: true, checked: false, taxid: "186765", children: [
+				{text:"Enterobacteria phage lambda", expanded: true, rollup: true, checked: false, taxid: "10710", children: [
+						{text:"Enterobacteria phage lambda", leaf: true, checked: false, rollup: true, common_name: "10710", taxid: "10710"}
+				]},
+				{text:"Corynephage beta", expanded: true, rollup: true, checked: false, taxid: "10703", children: [
+						{text:"Corynephage beta", leaf: true, checked: false, rollup: true, common_name: "10703", taxid: "10703"}
+				]}
+			]},
+			{text:"Streptococcus phage Dp-1", expanded: true, rollup: true, checked: false, taxid: "59241", children: [
+					{text:"Streptococcus phage Dp-1", leaf: true, checked: false, rollup: true, common_name: "59241", taxid: "59241"}
+			]},
+			{text:"L5-like viruses", expanded: true, rollup: true, checked: false, taxid: "186764", children: [
+				{text:"Mycobacterium phage Bxb1", expanded: true, rollup: true, checked: false, taxid: "148603", children: [
+						{text:"Mycobacterium phage Bxb1", leaf: true, checked: false, rollup: true, common_name: "148603", taxid: "148603"}
+				]}
+			]}
+		]},
+		{text:"Podoviridae", expanded: false, rollup: true, checked: false, taxid: "10744", children: [
+			{text:"P22-like viruses", expanded: true, rollup: true, checked: false, taxid: "186794", children: [
+				{text:"Enterobacteria phage P22", expanded: true, rollup: true, checked: false, taxid: "10754", children: [
+						{text:"Enterobacteria phage P22", leaf: true, checked: false, rollup: true, common_name: "10754", taxid: "10754"}
+				]}
+			]},
+			{text:"Enterobacteria phage 933W sensu lato", expanded: true, rollup: true, checked: false, taxid: "374810", children: [
+					{text:"Enterobacteria phage 933W", leaf: true, checked: false, rollup: true, common_name: "10730", taxid: "10730"}
+			]},
+			{text:"T7-like viruses", expanded: true, rollup: true, checked: false, taxid: "110456", children: [
+				{text:"Enterobacteria phage T7", expanded: true, rollup: true, checked: false, taxid: "10760", children: [
+						{text:"Enterobacteria phage T7", leaf: true, checked: false, rollup: true, common_name: "10760", taxid: "10760"}
+				]}
+			]},
+			{text:"Streptococcus phage Cp-1", expanded: true, rollup: true, checked: false, taxid: "10747", children: [
+					{text:"Streptococcus phage Cp-1", leaf: true, checked: false, rollup: true, common_name: "10747", taxid: "10747"}
+			]}
+		]}
+	]},
+	{text:"Parvoviridae", expanded: false, rollup: false, checked: false, taxid: "10780", children: [
+		{text:"Dependovirus", expanded: false, rollup: true, checked: false, taxid: "10803", children: [
+			{text:"Adeno-associated virus - 2", expanded: true, rollup: true, checked: false, taxid: "10804", children: [
+					{text:"Adeno-associated virus - 2", leaf: true, checked: false, rollup: true, common_name: "10804", taxid: "10804"}
+			]}
+		]},
+		{text:"Parvovirus", expanded: false, rollup: true, checked: false, taxid: "10781", children: [
+			{text:"Minute virus of mice", expanded: true, rollup: true, checked: false, taxid: "10794", children: [
+					{text:"Minute virus of mice", leaf: true, checked: false, rollup: true, common_name: "10794", taxid: "10794"}
+			]}
+		]}
+	]},
+	{text:"Virgaviridae", expanded: false, rollup: false, checked: false, taxid: "675071", children: [
+		{text:"Pomovirus", expanded: false, rollup: true, checked: false, taxid: "186886", children: [
+			{text:"Potato mop-top virus", expanded: true, rollup: true, checked: false, taxid: "37128", children: [
+					{text:"Potato mop-top virus", leaf: true, checked: false, rollup: true, common_name: "37128", taxid: "37128", common_name: "37128", taxid: "37128"}
+			]}
+		]},
+		{text:"Tobravirus", expanded: false, rollup: true, checked: false, taxid: "12293", children: [
+			{text:"Tobacco rattle virus", expanded: true, rollup: true, checked: false, taxid: "12295", children: [
+					{text:"Tobacco rattle virus", leaf: true, checked: false, rollup: true, common_name: "12295", taxid: "12295"}
+			]}
+		]},
+		{text:"Tobamovirus", expanded: false, rollup: true, checked: false, taxid: "12234", children: [
+			{text:"Tobacco mosaic virus", expanded: true, rollup: true, checked: false, taxid: "12242", children: [
+					{text:"Tobacco mosaic virus", leaf: true, checked: false, rollup: true, common_name: "12242", taxid: "12242"}
+			]}
+		]}
+	]},
+	{text:"Baculoviridae", expanded: false, rollup: false, checked: false, taxid: "10442", children: [
+		{text:"Alphabaculovirus", expanded: false, rollup: true, checked: false, taxid: "558016", children: [
+			{text:"Autographa californica MNPV", expanded: true, rollup: true, checked: false, taxid: "307456", children: [
+					{text:"Autographa californica nucleopolyhedrovirus", leaf: true, checked: false, rollup: true, common_name: "46015", taxid: "46015"}
+			]},
+			{text:"Orgyia pseudotsugata single capsid nuclopolyhedrovirus", expanded: true, rollup: true, checked: false, taxid: "10450", children: [
+					{text:"Orgyia pseudotsugata single capsid nuclopolyhedrovirus", leaf: true, checked: false, rollup: true, common_name: "10450", taxid: "10450"}
+			]}
+		]}
+	]},
+	{text:"Adenoviridae", expanded: false, rollup: false, checked: false, taxid: "10508", children: [
+		{text:"Mastadenovirus", expanded: false, rollup: true, checked: false, taxid: "10509", children: [
+			{text:"Human adenovirus D", expanded: true, rollup: true, checked: false, taxid: "130310", children: [
+					{text:"Human adenovirus D", leaf: true, checked: false, rollup: true, common_name: "130310", taxid: "130310"},
+					{text:"Human adenovirus 9", leaf: true, checked: false, rollup: true, common_name: "10527", taxid: "10527"}
+			]},
+			{text:"Human adenovirus E", expanded: true, rollup: true, checked: false, taxid: "130308", children: [
+					{text:"Human adenovirus E", leaf: true, checked: false, rollup: true, common_name: "130308", taxid: "130308"}
+			]},
+			{text:"Human adenovirus A", expanded: true, rollup: true, checked: false, taxid: "129875", children: [
+					{text:"Human adenovirus 12", leaf: true, checked: false, rollup: true, common_name: "28282", taxid: "28282"},
+					{text:"Human adenovirus A", leaf: true, checked: false, rollup: true, common_name: "129875", taxid: "129875"},
+					{text:"Human adenovirus 31", leaf: true, checked: false, rollup: true, common_name: "10529", taxid: "10529"}
+			]},
+			{text:"Murine adenovirus A", expanded: true, rollup: true, checked: false, taxid: "129956", children: [
+					{text:"Murine adenovirus 1", leaf: true, checked: false, rollup: true, common_name: "10530", taxid: "10530"}
+			]},
+			{text:"Human adenovirus C", expanded: true, rollup: true, checked: false, taxid: "129951", children: [
+					{text:"Human adenovirus 5", leaf: true, checked: false, rollup: true, common_name: "28285", taxid: "28285"},
+					{text:"Human adenovirus 1", leaf: true, checked: false, rollup: true, common_name: "10533", taxid: "10533"},
+					{text:"Human adenovirus C", leaf: true, checked: false, rollup: true, common_name: "129951", taxid: "129951"},
+					{text:"Human adenovirus 2", leaf: true, checked: false, rollup: true, common_name: "10515", taxid: "10515"}
+			]},
+			{text:"Human adenovirus B", expanded: true, rollup: true, checked: false, taxid: "108098", children: [
+					{text:"Human adenovirus 3", leaf: true, checked: false, rollup: true, common_name: "45659", taxid: "45659"},
+					{text:"Human adenovirus 7", leaf: true, checked: false, rollup: true, common_name: "10519", taxid: "10519"}
+			]},
+			{text:"Human adenovirus F", expanded: true, rollup: true, checked: false, taxid: "130309", children: [
+					{text:"Human adenovirus F", leaf: true, checked: false, rollup: true, common_name: "130309", taxid: "130309"}
+			]}
+		]},
+		{text:"Aviadenovirus", expanded: false, rollup: true, checked: false, taxid: "10552", children: [
+			{text:"Fowl adenovirus A", expanded: true, rollup: true, checked: false, taxid: "190061", children: [
+					{text:"Fowl adenovirus A", leaf: true, checked: false, rollup: true, common_name: "190061", taxid: "190061"},
+					{text:"Fowl adenovirus 1", leaf: true, checked: false, rollup: true, common_name: "10553", taxid: "10553"}
+			]}
+		]}
+	]},
+	{text:"Enterobacteria phage L", expanded: false, rollup: false, checked: false, taxid: "45441", children: [
+			{text:"Enterobacteria phage L", leaf: true, checked: false, rollup: true, common_name: "45441", taxid: "45441"}
+	]},
+	{text:"Microviridae", expanded: false, rollup: false, checked: false, taxid: "10841", children: [
+		{text:"Microvirus", expanded: false, rollup: true, checked: false, taxid: "10842", children: [
+			{text:"Enterobacteria phage alpha3", expanded: true, rollup: true, checked: false, taxid: "10849", children: [
+					{text:"Enterobacteria phage alpha3", leaf: true, checked: false, rollup: true, common_name: "10849", taxid: "10849"}
+			]},
+			{text:"Enterobacteria phage G4 sensu lato", expanded: true, rollup: true, checked: false, taxid: "374844", children: [
+					{text:"Enterobacteria phage G4", leaf: true, checked: false, rollup: true, common_name: "10843", taxid: "10843"}
+			]},
+			{text:"Enterobacteria phage phiX174 sensu lato", expanded: true, rollup: true, checked: false, taxid: "374840", children: [
+					{text:"Enterobacteria phage phiX174", leaf: true, checked: false, rollup: true, common_name: "10847", taxid: "10847"}
+			]}
+		]}
+	]},
+	{text:"Papillomaviridae", expanded: false, rollup: false, checked: false, taxid: "151340", children: [
+		{text:"Kappapapillomavirus", expanded: false, rollup: true, checked: false, taxid: "325457", children: [
+			{text:"Kappapapillomavirus 2", expanded: true, rollup: true, checked: false, taxid: "10623", children: [
+					{text:"Papillomavirus sylvilagi (STRAIN KANSAS)", leaf: true, checked: false, rollup: true, common_name: "31553", taxid: "31553"},
+					{text:"Kappapapillomavirus 2", leaf: true, checked: false, rollup: true, common_name: "10623", taxid: "10623"}
+			]}
+		]},
+		{text:"Deltapapillomavirus", expanded: false, rollup: true, checked: false, taxid: "325454", children: [
+			{text:"Deltapapillomavirus 4", expanded: true, rollup: true, checked: false, taxid: "337052", children: [
+					{text:"Bovine papillomavirus type 1", leaf: true, checked: false, rollup: true, common_name: "10559", taxid: "10559"},
+					{text:"Deltapapillomavirus 4", leaf: true, checked: false, rollup: true, common_name: "337052", taxid: "337052"},
+					{text:"Bovine papillomavirus type 2", leaf: true, checked: false, rollup: true, common_name: "10560", taxid: "10560"}
+			]}
+		]},
+		{text:"Betapapillomavirus", expanded: false, rollup: true, checked: false, taxid: "333922", children: [
+			{text:"Betapapillomavirus 1", expanded: true, rollup: true, checked: false, taxid: "337051", children: [
+					{text:"Human papillomavirus type 5", leaf: true, checked: false, rollup: true, common_name: "333923", taxid: "333923"},
+					{text:"Human papillomavirus type 8", leaf: true, checked: false, rollup: true, common_name: "10579", taxid: "10579"}
+			]}
+		]},
+		{text:"Alphapapillomavirus", expanded: false, rollup: true, checked: false, taxid: "333750", children: [
+			{text:"Alphapapillomavirus 9", expanded: true, rollup: true, checked: false, taxid: "337041", children: [
+					{text:"Human papillomavirus type 31", leaf: true, checked: false, rollup: true, common_name: "10585", taxid: "10585"},
+					{text:"Human papillomavirus type 58", leaf: true, checked: false, rollup: true, common_name: "10598", taxid: "10598"},
+					{text:"Human papillomavirus type 16", leaf: true, checked: false, rollup: true, common_name: "333760", taxid: "333760"}
+			]},
+			{text:"Alphapapillomavirus 10", expanded: true, rollup: true, checked: false, taxid: "333754", children: [
+					{text:"Human papillomavirus type 11", leaf: true, checked: false, rollup: true, common_name: "10580", taxid: "10580"},
+					{text:"Human papillomavirus type 6b", leaf: true, checked: false, rollup: true, common_name: "10600", taxid: "10600"}
+			]},
+			{text:"Alphapapillomavirus 2", expanded: true, rollup: true, checked: false, taxid: "337039", children: [
+					{text:"Human papillomavirus type 3", leaf: true, checked: false, rollup: true, common_name: "10614", taxid: "10614"}
+			]},
+			{text:"Alphapapillomavirus 7", expanded: true, rollup: true, checked: false, taxid: "337042", children: [
+					{text:"Human papillomavirus type 18", leaf: true, checked: false, rollup: true, common_name: "333761", taxid: "333761"},
+					{text:"Human papillomavirus type 45", leaf: true, checked: false, rollup: true, common_name: "10593", taxid: "10593"},
+					{text:"Alphapapillomavirus 7", leaf: true, checked: false, rollup: true, common_name: "337042", taxid: "337042"}
+			]}
+		]},
+		{text:"Mupapillomavirus", expanded: false, rollup: true, checked: false, taxid: "334202", children: [
+			{text:"Mupapillomavirus 1", expanded: true, rollup: true, checked: false, taxid: "334203", children: [
+					{text:"Mupapillomavirus 1", leaf: true, checked: false, rollup: true, common_name: "334203", taxid: "334203"},
+					{text:"Human papillomavirus type 1a", leaf: true, checked: false, rollup: true, common_name: "10583", taxid: "10583"}
+			]}
+		]}
+	]},
+	{text:"Reoviridae", expanded: false, rollup: false, checked: false, taxid: "10880", children: [
+		{text:"Reovirus sp.", expanded: false, rollup: true, checked: false, taxid: "10891", children: [
+				{text:"Reovirus sp.", leaf: true, checked: false, rollup: true, common_name: "10891", taxid: "10891"}
+		]},
+		{text:"Orbivirus", expanded: false, rollup: true, checked: false, taxid: "10892", children: [
+			{text:"Bluetongue virus", expanded: true, rollup: true, checked: false, taxid: "40051", children: [
+					{text:"Bluetongue virus", leaf: true, checked: false, rollup: true, common_name: "40051", taxid: "40051"}
+			]}
+		]},
+		{text:"Rotavirus", expanded: false, rollup: true, checked: false, taxid: "10912", children: [
+			{text:"Rotavirus A", expanded: true, rollup: true, checked: false, taxid: "28875", children: [
+					{text:"Rotavirus A", leaf: true, checked: false, rollup: true, common_name: "28875", taxid: "28875"},
+					{text:"Simian rotavirus A/SA11-4F", leaf: true, checked: false, rollup: true, common_name: "36436", taxid: "36436"},
+					{text:"Bovine rotavirus", leaf: true, checked: false, rollup: true, common_name: "10927", taxid: "10927"},
+					{text:"Rotavirus G3", leaf: true, checked: false, rollup: true, common_name: "73036", taxid: "73036"},
+					{text:"Simian rotavirus A/SA11-both", leaf: true, checked: false, rollup: true, common_name: "37137", taxid: "37137"}
+			]},
+			{text:"Rotavirus C", expanded: true, rollup: true, checked: false, taxid: "36427", children: [
+					{text:"Porcine rotavirus (SEROTYPE 5 / STRAIN OSU)", leaf: true, checked: false, rollup: true, common_name: "10915", taxid: "10915"}
+			]}
+		]},
+		{text:"Orthoreovirus", expanded: false, rollup: true, checked: false, taxid: "10882", children: [
+			{text:"Mammalian orthoreovirus", expanded: true, rollup: true, checked: false, taxid: "351073", children: [
+					{text:"Mammalian orthoreovirus 1 Lang", leaf: true, checked: false, rollup: true, common_name: "10884", taxid: "10884"},
+					{text:"Mammalian orthoreovirus 3 Dearing", leaf: true, checked: false, rollup: true, common_name: "10886", taxid: "10886"}
+			]}
+		]}
+	]},
+	{text:"Bunyaviridae", expanded: false, rollup: false, checked: false, taxid: "11571", children: [
+		{text:"Hantavirus", expanded: false, rollup: true, checked: false, taxid: "11598", children: [
+			{text:"Seoul virus", expanded: true, rollup: true, checked: false, taxid: "11608", children: [
+					{text:"Seoul virus", leaf: true, checked: false, rollup: true, common_name: "11608", taxid: "11608"}
+			]},
+			{text:"Puumala virus", expanded: true, rollup: true, checked: false, taxid: "11604", children: [
+					{text:"Puumala virus", leaf: true, checked: false, rollup: true, common_name: "11604", taxid: "11604"}
+			]},
+			{text:"Hantaan virus", expanded: true, rollup: true, checked: false, taxid: "11599", children: [
+					{text:"Hantaan virus", leaf: true, checked: false, rollup: true, common_name: "11599", taxid: "11599"}
+			]},
+			{text:"Tula virus", expanded: true, rollup: true, checked: false, taxid: "37133", children: [
+					{text:"Tula virus", leaf: true, checked: false, rollup: true, common_name: "37133", taxid: "37133"}
+			]}
+		]},
+		{text:"Orthobunyavirus", expanded: false, rollup: true, checked: false, taxid: "11572", children: [
+			{text:"California encephalitis virus", expanded: true, rollup: true, checked: false, taxid: "35305", children: [
+					{text:"La Crosse virus", leaf: true, checked: false, rollup: true, common_name: "11577", taxid: "11577"},
+					{text:"La Crosse virus L78", leaf: true, checked: false, rollup: true, common_name: "796210", taxid: "796210"}
+			]},
+			{text:"Bunyamwera virus", expanded: true, rollup: true, checked: false, taxid: "35304", children: [
+					{text:"Bunyamwera virus", leaf: true, checked: false, rollup: true, common_name: "35304", taxid: "35304"}
+			]}
+		]},
+		{text:"Nairovirus", expanded: false, rollup: true, checked: false, taxid: "11592", children: [
+			{text:"Crimean-Congo hemorrhagic fever virus", expanded: true, rollup: true, checked: false, taxid: "11593", children: [
+					{text:"Crimean-Congo hemorrhagic fever virus", leaf: true, checked: false, rollup: true, common_name: "11593", taxid: "11593"}
+			]}
+		]},
+		{text:"Phlebovirus", expanded: false, rollup: true, checked: false, taxid: "11584", children: [
+			{text:"Sandfly fever Sicilian virus", expanded: true, rollup: true, checked: false, taxid: "28292", children: [
+					{text:"Sandfly fever Sicilian virus", leaf: true, checked: false, rollup: true, common_name: "28292", taxid: "28292"}
+			]},
+			{text:"Rift Valley fever virus", expanded: true, rollup: true, checked: false, taxid: "11588", children: [
+					{text:"Rift valley fever virus (STRAIN ZH-548 M12)", leaf: true, checked: false, rollup: true, common_name: "11589", taxid: "11589"},
+					{text:"Rift Valley fever virus", leaf: true, checked: false, rollup: true, common_name: "11588", taxid: "11588"}
+			]}
+		]}
+	]},
+	{text:"Nimaviridae", expanded: false, rollup: false, checked: false, taxid: "196937", children: [
+		{text:"Whispovirus", expanded: false, rollup: true, checked: false, taxid: "249585", children: [
+			{text:"White spot syndrome virus", expanded: true, rollup: true, checked: false, taxid: "342409", children: [
+					{text:"Shrimp white spot syndrome virus", leaf: true, checked: false, rollup: true, common_name: "92652", taxid: "92652"}
+			]}
+		]}
+	]},
+	{text:"Bromoviridae", expanded: false, rollup: false, checked: false, taxid: "39740", children: [
+		{text:"Cucumovirus", expanded: false, rollup: true, checked: false, taxid: "12304", children: [
+			{text:"Cucumber mosaic virus", expanded: true, rollup: true, checked: false, taxid: "12305", children: [
+					{text:"Cucumber mosaic virus", leaf: true, checked: false, rollup: true, common_name: "cucumber mosaic cucumovirus", taxid: "12305"}
+			]}
+		]},
+		{text:"Alfamovirus", expanded: false, rollup: true, checked: false, taxid: "12320", children: [
+			{text:"Alfalfa mosaic virus", expanded: true, rollup: true, checked: false, taxid: "12321", children: [
+					{text:"Alfalfa mosaic virus", leaf: true, checked: false, rollup: true, common_name: "12321", taxid: "12321"}
+			]}
+		]},
+		{text:"Bromovirus", expanded: false, rollup: true, checked: false, taxid: "12300", children: [
+			{text:"Brome mosaic virus", expanded: true, rollup: true, checked: false, taxid: "12302", children: [
+					{text:"Brome mosaic virus", leaf: true, checked: false, rollup: true, common_name: "12302", taxid: "12302"}
+			]}
+		]}
+	]},
+	{text:"Geminiviridae", expanded: false, rollup: false, checked: false, taxid: "10811", children: [
+		{text:"Begomovirus", expanded: false, rollup: true, checked: false, taxid: "10814", children: [
+			{text:"Bhendi yellow vein mosaic virus", expanded: true, rollup: true, checked: false, taxid: "120168", children: [
+					{text:"Bhendi yellow vein mosaic virus", leaf: true, checked: false, rollup: true, common_name: "120168", taxid: "120168"}
+			]}
+		]}
+	]},
+	{text:"Herpesvirales", expanded: false, rollup: false, checked: false, taxid: "548681", children: [
+		{text:"Herpesviridae", expanded: false, rollup: true, checked: false, taxid: "10292", children: [
+			{text:"Lymphocryptovirus", expanded: true, rollup: true, checked: false, taxid: "10375", children: [
+				{text:"Human herpesvirus 4", expanded: true, rollup: true, checked: false, taxid: "10376", children: [
+						{text:"Human herpesvirus 4 type 2", leaf: true, checked: false, rollup: true, common_name: "Epstein-Barr virus type 2", taxid: "12509"},
+						{text:"Human herpesvirus 4 type 1", leaf: true, checked: false, rollup: true, common_name: "Epstein-Barr virus type 1", taxid: "36352"},
+						{text:"Human herpesvirus 4 (strain B95-8)", leaf: true, checked: false, rollup: true, common_name: "Epstein-Barr virus (strain B95-8)", taxid: "10377"},
+						{text:"Human herpesvirus 4", leaf: true, checked: false, rollup: true, common_name: "Epstein-Barr virus", taxid: "10376"},
+						{text:"Epstein-barr virus strain ag876", leaf: true, checked: false, rollup: true, common_name: "82830", taxid: "82830"}
+				]}
+			]},
+			{text:"Rhadinovirus", expanded: true, rollup: true, checked: false, taxid: "10379", children: [
+				{text:"Ateline herpesvirus 3", expanded: true, rollup: true, checked: false, taxid: "85618", children: [
+						{text:"Ateline herpesvirus 3", leaf: true, checked: false, rollup: true, common_name: "85618", taxid: "85618"}
+				]},
+				{text:"Murid herpesvirus 4", expanded: true, rollup: true, checked: false, taxid: "33708", children: [
+						{text:"Murid herpesvirus 4", leaf: true, checked: false, rollup: true, common_name: "Murine herpesvirus 68", taxid: "33708"}
+				]},
+				{text:"Human herpesvirus 8", expanded: true, rollup: true, checked: false, taxid: "37296", children: [
+						{text:"Human herpesvirus 8", leaf: true, checked: false, rollup: true, common_name: "37296", taxid: "37296"},
+						{text:"Human herpesvirus 8 strain GK18", leaf: true, checked: false, rollup: true, common_name: "868565", taxid: "868565"},
+						{text:"Human herpesvirus 8 type M", leaf: true, checked: false, rollup: true, common_name: "435895", taxid: "435895"}
+				]},
+				{text:"Saimiriine herpesvirus 2", expanded: true, rollup: true, checked: false, taxid: "10381", children: [
+						{text:"Herpesvirus saimiri (strain 488)", leaf: true, checked: false, rollup: true, common_name: "10384", taxid: "10384"},
+						{text:"Herpesvirus saimiri (strain 11)", leaf: true, checked: false, rollup: true, common_name: "10383", taxid: "10383"},
+						{text:"Saimiriine herpesvirus 2", leaf: true, checked: false, rollup: true, common_name: "Herpesvirus saimiri", taxid: "10381"}
+				]}
+			]},
+			{text:"Muromegalovirus", expanded: true, rollup: true, checked: false, taxid: "10365", children: [
+				{text:"Murid herpesvirus 1", expanded: true, rollup: true, checked: false, taxid: "10366", children: [
+						{text:"Murid herpesvirus 1", leaf: true, checked: false, rollup: true, common_name: "Murine cytomegalovirus", taxid: "10366"},
+						{text:"Murine cytomegalovirus (strain K181)", leaf: true, checked: false, rollup: true, common_name: "69156", taxid: "69156"}
+				]}
+			]},
+			{text:"Simplexvirus", expanded: true, rollup: true, checked: false, taxid: "10294", children: [
+				{text:"Saimiriine herpesvirus 1", expanded: true, rollup: true, checked: false, taxid: "10353", children: [
+						{text:"Saimiriine herpesvirus 1", leaf: true, checked: false, rollup: true, common_name: "10353", taxid: "10353"}
+				]},
+				{text:"Human herpesvirus 1", expanded: true, rollup: true, checked: false, taxid: "10298", children: [
+						{text:"Herpes simplex virus (type 1 / strain F)", leaf: true, checked: false, rollup: true, common_name: "10304", taxid: "10304"},
+						{text:"Herpes simplex virus (type 1 / strain Patton)", leaf: true, checked: false, rollup: true, common_name: "10308", taxid: "10308"},
+						{text:"Human herpesvirus 1", leaf: true, checked: false, rollup: true, common_name: "Herpes simplex virus type 1", taxid: "10298"},
+						{text:"Herpes simplex virus (type 1 / strain 17)", leaf: true, checked: false, rollup: true, common_name: "10299", taxid: "10299"},
+						{text:"Herpes simplex virus (type 1 / strain Angelotti)", leaf: true, checked: false, rollup: true, common_name: "10301", taxid: "10301"}
+				]},
+				{text:"Human herpesvirus 2", expanded: true, rollup: true, checked: false, taxid: "10310", children: [
+						{text:"Human herpesvirus 2 strain 333", leaf: true, checked: false, rollup: true, common_name: "10313", taxid: "10313"},
+						{text:"Human herpesvirus 2 strain HG52", leaf: true, checked: false, rollup: true, common_name: "10315", taxid: "10315"},
+						{text:"Human herpesvirus 2", leaf: true, checked: false, rollup: true, common_name: "10310", taxid: "10310"}
+				]}
+			]},
+			{text:"Roseolovirus", expanded: true, rollup: true, checked: false, taxid: "40272", children: [
+				{text:"Human herpesvirus 6", expanded: true, rollup: true, checked: false, taxid: "10368", children: [
+						{text:"Human herpesvirus 6", leaf: true, checked: false, rollup: true, common_name: "10368", taxid: "10368"}
+				]},
+				{text:"Human herpesvirus 6B", expanded: true, rollup: true, checked: false, taxid: "32604", children: [
+						{text:"Human herpesvirus 6B", leaf: true, checked: false, rollup: true, common_name: "32604", taxid: "32604"}
+				]}
+			]},
+			{text:"Percavirus", expanded: true, rollup: true, checked: false, taxid: "548688", children: [
+				{text:"Equid herpesvirus 2", expanded: true, rollup: true, checked: false, taxid: "12657", children: [
+						{text:"Equid herpesvirus 2", leaf: true, checked: false, rollup: true, common_name: "Equine herpesvirus 2", taxid: "12657"}
+				]}
+			]},
+			{text:"Varicellovirus", expanded: true, rollup: true, checked: false, taxid: "10319", children: [
+				{text:"Equid herpesvirus 4", expanded: true, rollup: true, checked: false, taxid: "10331", children: [
+						{text:"Equine herpesvirus type 4 (strain 1942)", leaf: true, checked: false, rollup: true, common_name: "10333", taxid: "10333"}
+				]},
+				{text:"Equid herpesvirus 1", expanded: true, rollup: true, checked: false, taxid: "10326", children: [
+						{text:"Equid herpesvirus 1", leaf: true, checked: false, rollup: true, common_name: "Equine herpesvirus 1", taxid: "10326"}
+				]},
+				{text:"Human herpesvirus 3", expanded: true, rollup: true, checked: false, taxid: "10335", children: [
+						{text:"Human herpesvirus 3", leaf: true, checked: false, rollup: true, common_name: "Varicella-zoster virus", taxid: "10335"},
+						{text:"Human herpesvirus 3 strain Oka vaccine", leaf: true, checked: false, rollup: true, common_name: "341980", taxid: "341980"}
+				]},
+				{text:"Bovine herpesvirus 1", expanded: true, rollup: true, checked: false, taxid: "10320", children: [
+						{text:"Bovine herpesvirus type 1.1 (strain P8-2)", leaf: true, checked: false, rollup: true, common_name: "10324", taxid: "10324"},
+						{text:"Bovine herpesvirus 1", leaf: true, checked: false, rollup: true, common_name: "10320", taxid: "10320"}
+				]},
+				{text:"Suid herpesvirus 1", expanded: true, rollup: true, checked: false, taxid: "10345", children: [
+						{text:"Suid herpesvirus 1 strain Kaplan", leaf: true, checked: false, rollup: true, common_name: "33703", taxid: "33703"},
+						{text:"Suid herpesvirus 1", leaf: true, checked: false, rollup: true, common_name: "Pseudorabies virus", taxid: "10345"}
+				]}
+			]},
+			{text:"Cytomegalovirus", expanded: true, rollup: true, checked: false, taxid: "10358", children: [
+				{text:"Human herpesvirus 5", expanded: true, rollup: true, checked: false, taxid: "10359", children: [
+						{text:"Human herpesvirus 5 strain AD169", leaf: true, checked: false, rollup: true, common_name: "10360", taxid: "10360"},
+						{text:"Human herpesvirus 5", leaf: true, checked: false, rollup: true, common_name: "Human cytomegalovirus", taxid: "10359"},
+						{text:"Human herpesvirus 5 strain Towne", leaf: true, checked: false, rollup: true, common_name: "10363", taxid: "10363"},
+						{text:"Human herpesvirus 5 strain Merlin", leaf: true, checked: false, rollup: true, common_name: "295027", taxid: "295027"}
+				]}
+			]}
+		]}
+	]},
+	{text:"Orthomyxoviridae", expanded: false, rollup: false, checked: false, taxid: "11308", children: [
+		{text:"Influenzavirus B", expanded: false, rollup: true, checked: false, taxid: "197912", children: [
+			{text:"Influenza B virus", expanded: true, rollup: true, checked: false, taxid: "11520", children: [
+					{text:"Influenza B virus", leaf: true, checked: false, rollup: true, common_name: "11520", taxid: "11520"},
+					{text:"Influenza B virus (B/Maryland/1/01)", leaf: true, checked: false, rollup: true, common_name: "289329", taxid: "289329"}
+			]}
+		]},
+		{text:"Influenzavirus A", expanded: false, rollup: true, checked: false, taxid: "197911", children: [
+			{text:"Influenza A virus", expanded: true, rollup: true, checked: false, taxid: "11320", children: [
+					{text:"Influenza A virus (A/Hickox/1940(H1N1))", leaf: true, checked: false, rollup: true, common_name: "383543", taxid: "383543"},
+					{text:"Influenza A virus (A/Puerto Rico/8/1934(H1N1))", leaf: true, checked: false, rollup: true, common_name: "211044", taxid: "211044"},
+					{text:"Influenza A virus (A/Texas/36/1991(H1N1))", leaf: true, checked: false, rollup: true, common_name: "380964", taxid: "380964"},
+					{text:"Influenza A virus (A/whale/Maine/1/84(H13N9))", leaf: true, checked: false, rollup: true, common_name: "11484", taxid: "11484"},
+					{text:"Influenza A virus (A/Viet Nam/1203/2004(H5N1))", leaf: true, checked: false, rollup: true, common_name: "284218", taxid: "284218"},
+					{text:"Influenza A virus (A/mallard/Netherlands/12/2000(H7N3))", leaf: true, checked: false, rollup: true, common_name: "352515", taxid: "352515"},
+					{text:"Influenza A virus (A/California/04/2009(H1N1))", leaf: true, checked: false, rollup: true, common_name: "641501", taxid: "641501"},
+					{text:"Influenza A virus (A/hvPR8/34(H1N1))", leaf: true, checked: false, rollup: true, common_name: "437607", taxid: "437607"},
+					{text:"Influenza A virus (A/New Caledonia/20/1999(H1N1))", leaf: true, checked: false, rollup: true, common_name: "381512", taxid: "381512"},
+					{text:"Influenza A virus (A/Victoria/3/1975(H3N2))", leaf: true, checked: false, rollup: true, common_name: "392809", taxid: "392809"},
+					{text:"Influenza A virus (A/Wyoming/03/2003(H3N2))", leaf: true, checked: false, rollup: true, common_name: "480024", taxid: "480024"},
+					{text:"Influenza A virus (A/chicken/China/27402/1997(H5N1))", leaf: true, checked: false, rollup: true, common_name: "680716", taxid: "680716"},
+					{text:"Influenza A virus (A/Thailand/1(KAN-1)/2004(H5N1))", leaf: true, checked: false, rollup: true, common_name: "266827", taxid: "266827"},
+					{text:"Influenza A virus (A/WSN/1933 TS61(H1N1))", leaf: true, checked: false, rollup: true, common_name: "370129", taxid: "370129"},
+					{text:"Influenza A virus (A/Hong Kong/156/97(H5N1))", leaf: true, checked: false, rollup: true, common_name: "130763", taxid: "130763"},
+					{text:"Influenza A virus SC35M", leaf: true, checked: false, rollup: true, common_name: "360722", taxid: "360722"},
+					{text:"Influenza A virus (A/Hong Kong/43/1975(H3N2))", leaf: true, checked: false, rollup: true, common_name: "351266", taxid: "351266"},
+					{text:"Influenza A virus (A/lvPR8/34(H1N1))", leaf: true, checked: false, rollup: true, common_name: "437606", taxid: "437606"},
+					{text:"Influenza A virus (A/Panama/2007/1999(H3N2))", leaf: true, checked: false, rollup: true, common_name: "381513", taxid: "381513"},
+					{text:"Influenza A virus (A/WSN/1933(H1N1))", leaf: true, checked: false, rollup: true, common_name: "382835", taxid: "382835"},
+					{text:"Influenza A virus (A/udorn/1972(H3N2))", leaf: true, checked: false, rollup: true, common_name: "385599", taxid: "385599"},
+					{text:"Influenza A virus (A/chicken/Rostock/45/1934(H7N1))", leaf: true, checked: false, rollup: true, common_name: "402524", taxid: "402524"},
+					{text:"Influenza A virus (A/chicken/Nakorn-Patom/Thailand/CU-K2/2004(H5N1))", leaf: true, checked: false, rollup: true, common_name: "270485", taxid: "270485"},
+					{text:"Influenza A virus (A/swine/Wisconsin/1/1967(H1N1))", leaf: true, checked: false, rollup: true, common_name: "382855", taxid: "382855"},
+					{text:"Influenza A virus (A/Duck/Hong Kong/2986.1/2000(H5N1))", leaf: true, checked: false, rollup: true, common_name: "176674", taxid: "176674"},
+					{text:"Influenza A virus (A/Udorn/307/1972(H3N2))", leaf: true, checked: false, rollup: true, common_name: "381517", taxid: "381517"},
+					{text:"Influenza A virus (A/Brevig Mission/1/1918(H1N1))", leaf: true, checked: false, rollup: true, common_name: "88776", taxid: "88776"},
+					{text:"Influenza A virus (A/Aichi/2/1968(H3N2))", leaf: true, checked: false, rollup: true, common_name: "387139", taxid: "387139"},
+					{text:"Influenza A virus (A/New York/392/2004(H3N2))", leaf: true, checked: false, rollup: true, common_name: "335341", taxid: "335341"},
+					{text:"Influenza A virus (A/Wilson-Smith/1933(H1N1))", leaf: true, checked: false, rollup: true, common_name: "381518", taxid: "381518"}
+			]}
+		]},
+		{text:"Thogotovirus", expanded: false, rollup: true, checked: false, taxid: "35323", children: [
+			{text:"Thogoto virus", expanded: true, rollup: true, checked: false, taxid: "11569", children: [
+					{text:"Thogoto virus (isolate SiAr 126)", leaf: true, checked: false, rollup: true, common_name: "126796", taxid: "126796"}
+			]}
+		]},
+		{text:"Influenzavirus C", expanded: false, rollup: true, checked: false, taxid: "197913", children: [
+			{text:"Influenza C virus", expanded: true, rollup: true, checked: false, taxid: "11552", children: [
+					{text:"Influenza C virus (C/Ann Arbor/1/50)", leaf: true, checked: false, rollup: true, common_name: "11553", taxid: "11553"}
+			]}
+		]}
+	]},
+	{text:"Asfarviridae", expanded: false, rollup: false, checked: false, taxid: "137992", children: [
+		{text:"Asfivirus", expanded: false, rollup: true, checked: false, taxid: "39743", children: [
+			{text:"African swine fever virus", expanded: true, rollup: true, checked: false, taxid: "10497", children: [
+					{text:"African swine fever virus", leaf: true, checked: false, rollup: true, common_name: "10497", taxid: "10497"}
+			]}
+		]}
+	]},
+	{text:"Picornavirales", expanded: false, rollup: false, checked: false, taxid: "464095", children: [
+		{text:"Picornaviridae", expanded: false, rollup: true, checked: false, taxid: "12058", children: [
+			{text:"Kobuvirus", expanded: true, rollup: true, checked: false, taxid: "194960", children: [
+				{text:"Aichi virus", expanded: true, rollup: true, checked: false, taxid: "72149", children: [
+						{text:"Aichi virus", leaf: true, checked: false, rollup: true, common_name: "72149", taxid: "72149"}
+				]}
+			]},
+			{text:"Enterovirus", expanded: true, rollup: true, checked: false, taxid: "12059", children: [
+				{text:"Human enterovirus C", expanded: true, rollup: true, checked: false, taxid: "138950", children: [
+						{text:"Human poliovirus 1 strain Sabin", leaf: true, checked: false, rollup: true, common_name: "12082", taxid: "12082"}
+				]},
+				{text:"Human enterovirus B", expanded: true, rollup: true, checked: false, taxid: "138949", children: [
+						{text:"Coxsackievirus B3 (strain Woodruff)", leaf: true, checked: false, rollup: true, common_name: "103904", taxid: "103904"},
+						{text:"Echovirus E7", leaf: true, checked: false, rollup: true, common_name: "46018", taxid: "46018"}
+				]}
+			]}
+		]}
+	]},
+	{text:"Caliciviridae", expanded: false, rollup: false, checked: false, taxid: "11974", children: [
+		{text:"Vesivirus", expanded: false, rollup: true, checked: false, taxid: "95337", children: [
+			{text:"Feline calicivirus", expanded: true, rollup: true, checked: false, taxid: "11978", children: [
+					{text:"Feline calicivirus", leaf: true, checked: false, rollup: true, common_name: "11978", taxid: "11978"}
+			]}
+		]},
+		{text:"Norovirus", expanded: false, rollup: true, checked: false, taxid: "142786", children: [
+			{text:"Norwalk virus", expanded: true, rollup: true, checked: false, taxid: "11983", children: [
+					{text:"Norwalk virus", leaf: true, checked: false, rollup: true, common_name: "11983", taxid: "11983"}
+			]}
+		]}
+	]},
+	{text:"Caulimoviridae", expanded: false, rollup: false, checked: false, taxid: "186534", children: [
+		{text:"Caulimovirus", expanded: false, rollup: true, checked: false, taxid: "10639", children: [
+			{text:"Cauliflower mosaic virus", expanded: true, rollup: true, checked: false, taxid: "10641", children: [
+					{text:"Cauliflower mosaic virus", leaf: true, checked: false, rollup: true, common_name: "10641", taxid: "10641"}
+			]}
+		]}
+	]},
+	{text:"Polyomaviridae", expanded: false, rollup: false, checked: false, taxid: "151341", children: [
+		{text:"Polyomavirus", expanded: false, rollup: true, checked: false, taxid: "10624", children: [
+			{text:"Hamster polyomavirus", expanded: true, rollup: true, checked: false, taxid: "10626", children: [
+					{text:"Hamster polyomavirus", leaf: true, checked: false, rollup: true, common_name: "10626", taxid: "10626"}
+			]},
+			{text:"Merkel cell polyomavirus", expanded: true, rollup: true, checked: false, taxid: "493803", children: [
+					{text:"Merkel cell polyomavirus", leaf: true, checked: false, rollup: true, common_name: "493803", taxid: "493803"}
+			]},
+			{text:"JC polyomavirus", expanded: true, rollup: true, checked: false, taxid: "10632", children: [
+					{text:"JC polyomavirus", leaf: true, checked: false, rollup: true, common_name: "10632", taxid: "10632"}
+			]},
+			{text:"Murine polyomavirus", expanded: true, rollup: true, checked: false, taxid: "10634", children: [
+					{text:"Mouse polyomavirus (strain Crawford small-plaque)", leaf: true, checked: false, rollup: true, common_name: "10637", taxid: "10637"},
+					{text:"Mouse polyomavirus (strain 3)", leaf: true, checked: false, rollup: true, common_name: "10635", taxid: "10635"},
+					{text:"Murine polyomavirus strain A2", leaf: true, checked: false, rollup: true, common_name: "10636", taxid: "10636"},
+					{text:"Murine polyomavirus", leaf: true, checked: false, rollup: true, common_name: "10634", taxid: "10634"}
+			]},
+			{text:"Simian virus 40", expanded: true, rollup: true, checked: false, taxid: "10633", children: [
+					{text:"Simian virus 40", leaf: true, checked: false, rollup: true, common_name: "10633", taxid: "10633"}
+			]}
+		]}
+	]},
+	{text:"Poxviridae", expanded: false, rollup: false, checked: false, taxid: "10240", children: [
+		{text:"Parapoxvirus", expanded: false, rollup: true, checked: false, taxid: "10257", children: [
+			{text:"Orf virus", expanded: true, rollup: true, checked: false, taxid: "10258", children: [
+					{text:"Orf virus", leaf: true, checked: false, rollup: true, common_name: "10258", taxid: "10258"}
+			]}
+		]},
+		{text:"Yatapoxvirus", expanded: false, rollup: true, checked: false, taxid: "10282", children: [
+			{text:"Yaba monkey tumor virus", expanded: true, rollup: true, checked: false, taxid: "38804", children: [
+					{text:"Yaba monkey tumor virus", leaf: true, checked: false, rollup: true, common_name: "38804", taxid: "38804"}
+			]},
+			{text:"Tanapox virus", expanded: true, rollup: true, checked: false, taxid: "99000", children: [
+					{text:"Yaba-like disease virus", leaf: true, checked: false, rollup: true, common_name: "132475", taxid: "132475"}
+			]}
+		]},
+		{text:"Molluscipoxvirus", expanded: false, rollup: true, checked: false, taxid: "10278", children: [
+			{text:"Molluscum contagiosum virus", expanded: true, rollup: true, checked: false, taxid: "10279", children: [
+					{text:"Molluscum contagiosum virus", leaf: true, checked: false, rollup: true, common_name: "10279", taxid: "10279"}
+			]}
+		]},
+		{text:"Orthopoxvirus", expanded: false, rollup: true, checked: false, taxid: "10242", children: [
+			{text:"Variola virus", expanded: true, rollup: true, checked: false, taxid: "10255", children: [
+					{text:"Variola major virus", leaf: true, checked: false, rollup: true, common_name: "12870", taxid: "12870"},
+					{text:"Variola virus", leaf: true, checked: false, rollup: true, common_name: "smallpox virus", taxid: "10255"}
+			]},
+			{text:"Ectromelia virus", expanded: true, rollup: true, checked: false, taxid: "12643", children: [
+					{text:"Ectromelia virus", leaf: true, checked: false, rollup: true, common_name: "12643", taxid: "12643"},
+					{text:"Ectromelia virus Moscow", leaf: true, checked: false, rollup: true, common_name: "265874", taxid: "265874"}
+			]},
+			{text:"Cowpox virus", expanded: true, rollup: true, checked: false, taxid: "10243", children: [
+					{text:"Cowpox virus (Brighton Red)", leaf: true, checked: false, rollup: true, common_name: "265872", taxid: "265872"},
+					{text:"Cowpox virus", leaf: true, checked: false, rollup: true, common_name: "10243", taxid: "10243"}
+			]},
+			{text:"Vaccinia virus", expanded: true, rollup: true, checked: false, taxid: "10245", children: [
+					{text:"Vaccinia virus L-IPV", leaf: true, checked: false, rollup: true, common_name: "31531", taxid: "31531"},
+					{text:"Vaccinia virus WR", leaf: true, checked: false, rollup: true, common_name: "10254", taxid: "10254"},
+					{text:"Rabbitpox virus", leaf: true, checked: false, rollup: true, common_name: "32606", taxid: "32606"},
+					{text:"Vaccinia virus", leaf: true, checked: false, rollup: true, common_name: "10245", taxid: "10245"},
+					{text:"Vaccinia virus Copenhagen", leaf: true, checked: false, rollup: true, common_name: "10249", taxid: "10249"},
+					{text:"Vaccinia virus Ankara", leaf: true, checked: false, rollup: true, common_name: "126794", taxid: "126794"}
+			]}
+		]},
+		{text:"Leporipoxvirus", expanded: false, rollup: true, checked: false, taxid: "10270", children: [
+			{text:"Myxoma virus", expanded: true, rollup: true, checked: false, taxid: "10273", children: [
+					{text:"Myxoma virus", leaf: true, checked: false, rollup: true, common_name: "10273", taxid: "10273"}
+			]}
+		]},
+		{text:"Avipoxvirus", expanded: false, rollup: true, checked: false, taxid: "10260", children: [
+			{text:"Fowlpox virus", expanded: true, rollup: true, checked: false, taxid: "10261", children: [
+					{text:"Fowlpox virus", leaf: true, checked: false, rollup: true, common_name: "10261", taxid: "10261"}
+			]}
+		]}
+	]},
+	{text:"Sobemovirus", expanded: false, rollup: false, checked: false, taxid: "12137", children: [
+		{text:"Sesbania mosaic virus", expanded: false, rollup: true, checked: false, taxid: "12558", children: [
+				{text:"Sesbania mosaic virus", leaf: true, checked: false, rollup: true, common_name: "12558", taxid: "12558"}
+		]}
+	]},
+	{text:"Cystoviridae", expanded: false, rollup: false, checked: false, taxid: "10877", children: [
+		{text:"Cystovirus", expanded: false, rollup: true, checked: false, taxid: "10878", children: [
+			{text:"Pseudomonas phage phi6", expanded: true, rollup: true, checked: false, taxid: "10879", children: [
+					{text:"Pseudomonas phage phi6", leaf: true, checked: false, rollup: true, common_name: "10879", taxid: "10879"}
+			]}
+		]}
+	]},
+	{text:"Circoviridae", expanded: false, rollup: false, checked: false, taxid: "39724", children: [
+		{text:"Gyrovirus", expanded: false, rollup: true, checked: false, taxid: "227307", children: [
+			{text:"Chicken anemia virus", expanded: true, rollup: true, checked: false, taxid: "12618", children: [
+					{text:"Chicken anemia virus Cuxhaven-1/Germany", leaf: true, checked: false, rollup: true, common_name: "73475", taxid: "73475"}
+			]}
+		]}
+	]},
+	{text:"Hepadnaviridae", expanded: false, rollup: false, checked: false, taxid: "10404", children: [
+		{text:"Orthohepadnavirus", expanded: false, rollup: true, checked: false, taxid: "10405", children: [
+			{text:"Hepatitis B virus", expanded: true, rollup: true, checked: false, taxid: "10407", children: [
+					{text:"Hepatitis B virus", leaf: true, checked: false, rollup: true, common_name: "10407", taxid: "10407"},
+					{text:"Hepatitis B virus ayw/France/Tiollais/1979", leaf: true, checked: false, rollup: true, common_name: "490133", taxid: "490133"},
+					{text:"Hepatitis B virus C/ayr human/Japan/Okamoto", leaf: true, checked: false, rollup: true, common_name: "928302", taxid: "928302"},
+					{text:"Hepatitis B virus adw2/Rutter/1979", leaf: true, checked: false, rollup: true, common_name: "480116", taxid: "480116"},
+					{text:"Hepatitis B virus ayw/Australia/AustKW/1991", leaf: true, checked: false, rollup: true, common_name: "489488", taxid: "489488"}
+			]},
+			{text:"Woodchuck hepatitis virus", expanded: true, rollup: true, checked: false, taxid: "35269", children: [
+					{text:"Woodchuck hepatitis virus", leaf: true, checked: false, rollup: true, common_name: "35269", taxid: "35269"}
+			]}
+		]}
+	]},
+	{text:"Birnaviridae", expanded: false, rollup: false, checked: false, taxid: "10993", children: [
+		{text:"Avibirnavirus", expanded: false, rollup: true, checked: false, taxid: "39751", children: [
+			{text:"Infectious bursal disease virus", expanded: true, rollup: true, checked: false, taxid: "10995", children: [
+					{text:"Infectious bursal disease virus", leaf: true, checked: false, rollup: true, common_name: "Gumboro virus", taxid: "10995"}
+			]}
+		]}
+	]},
+	{text:"Closteroviridae", expanded: false, rollup: false, checked: false, taxid: "69973", children: [
+		{text:"Closterovirus", expanded: false, rollup: true, checked: false, taxid: "12160", children: [
+			{text:"Beet yellows virus", expanded: true, rollup: true, checked: false, taxid: "12161", children: [
+					{text:"Beet yellows virus", leaf: true, checked: false, rollup: true, common_name: "12161", taxid: "12161"}
+			]}
+		]}
+	]},
+	{text:"Retroviridae", expanded: false, rollup: false, checked: false, taxid: "11632", children: [
+		{text:"Betaretrovirus", expanded: false, rollup: true, checked: false, taxid: "140052", children: [
+			{text:"Mason-Pfizer monkey virus", expanded: true, rollup: true, checked: false, taxid: "11855", children: [
+					{text:"Mason-Pfizer monkey virus", leaf: true, checked: false, rollup: true, common_name: "11855", taxid: "11855"},
+					{text:"Simian retrovirus 1", leaf: true, checked: false, rollup: true, common_name: "11942", taxid: "11942"}
+			]},
+			{text:"Mouse mammary tumor virus", expanded: true, rollup: true, checked: false, taxid: "11757", children: [
+					{text:"Mouse mammary tumor virus (STRAIN C3H)", leaf: true, checked: false, rollup: true, common_name: "11759", taxid: "11759"}
+			]},
+			{text:"Jaagsiekte sheep retrovirus", expanded: true, rollup: true, checked: false, taxid: "11746", children: [
+					{text:"Jaagsiekte sheep retrovirus", leaf: true, checked: false, rollup: true, common_name: "11746", taxid: "11746"}
+			]}
+		]},
+		{text:"Gammaretrovirus", expanded: false, rollup: true, checked: false, taxid: "153135", children: [
+			{text:"Abelson murine leukemia virus", expanded: true, rollup: true, checked: false, taxid: "11788", children: [
+					{text:"Abelson murine leukemia virus", leaf: true, checked: false, rollup: true, common_name: "11788", taxid: "11788"}
+			]},
+			{text:"Murine leukemia virus", expanded: true, rollup: true, checked: false, taxid: "11786", children: [
+					{text:"AKR (endogenous) murine leukemia virus", leaf: true, checked: false, rollup: true, common_name: "11791", taxid: "11791"},
+					{text:"Moloney murine leukemia virus isolate Shinnick", leaf: true, checked: false, rollup: true, common_name: "928306", taxid: "928306"},
+					{text:"Moloney murine leukemia virus", leaf: true, checked: false, rollup: true, common_name: "11801", taxid: "11801"}
+			]},
+			{text:"Murine leukemia-related retroviruses", expanded: true, rollup: true, checked: false, taxid: "99182", children: [
+					{text:"Xenotropic MuLV-related virus VP62", leaf: true, checked: false, rollup: true, common_name: "373193", taxid: "373193"}
+			]}
+		]},
+		{text:"Epsilonretrovirus", expanded: false, rollup: true, checked: false, taxid: "153137", children: [
+			{text:"Walleye dermal sarcoma virus", expanded: true, rollup: true, checked: false, taxid: "39720", children: [
+					{text:"Walleye dermal sarcoma virus", leaf: true, checked: false, rollup: true, common_name: "39720", taxid: "39720"}
+			]}
+		]},
+		{text:"Deltaretrovirus", expanded: false, rollup: true, checked: false, taxid: "153136", children: [
+			{text:"Primate T-lymphotropic virus 1", expanded: true, rollup: true, checked: false, taxid: "194440", children: [
+					{text:"Human T-cell lymphotrophic virus type 1 (strain ATK)", leaf: true, checked: false, rollup: true, common_name: "11926", taxid: "11926"},
+					{text:"Human T-lymphotropic virus 1", leaf: true, checked: false, rollup: true, common_name: "11908", taxid: "11908"}
+			]},
+			{text:"Primate T-lymphotropic virus 2", expanded: true, rollup: true, checked: false, taxid: "194441", children: [
+					{text:"Human T-lymphotropic virus 2", leaf: true, checked: false, rollup: true, common_name: "11909", taxid: "11909"}
+			]},
+			{text:"Bovine leukemia virus", expanded: true, rollup: true, checked: false, taxid: "11901", children: [
+					{text:"Bovine leukemia virus", leaf: true, checked: false, rollup: true, common_name: "11901", taxid: "11901"}
+			]},
+			{text:"Primate T-lymphotropic virus 3", expanded: true, rollup: true, checked: false, taxid: "194443", children: [
+					{text:"Human T-lymphotropic virus 3", leaf: true, checked: false, rollup: true, common_name: "28332", taxid: "28332"}
+			]}
+		]},
+		{text:"Lentivirus", expanded: false, rollup: true, checked: false, taxid: "11646", children: [
+			{text:"Simian-Human immunodeficiency virus", expanded: true, rollup: true, checked: false, taxid: "57667", children: [
+					{text:"Simian-Human immunodeficiency virus", leaf: true, checked: false, rollup: true, common_name: "57667", taxid: "57667"}
+			]},
+			{text:"Bovine immunodeficiency virus", expanded: true, rollup: true, checked: false, taxid: "11657", children: [
+					{text:"Bovine immunodeficiency virus", leaf: true, checked: false, rollup: true, common_name: "11657", taxid: "11657"}
+			]},
+			{text:"Feline immunodeficiency virus", expanded: true, rollup: true, checked: false, taxid: "11673", children: [
+					{text:"Feline immunodeficiency virus", leaf: true, checked: false, rollup: true, common_name: "11673", taxid: "11673"}
+			]},
+			{text:"Visna/maedi virus", expanded: true, rollup: true, checked: false, taxid: "11741", children: [
+					{text:"Visna/maedi virus", leaf: true, checked: false, rollup: true, common_name: "11741", taxid: "11741"}
+			]},
+			{text:"Human immunodeficiency virus 2", expanded: true, rollup: true, checked: false, taxid: "11709", children: [
+					{text:"Human immunodeficiency virus type 2 (ISOLATE ROD)", leaf: true, checked: false, rollup: true, common_name: "11720", taxid: "11720"},
+					{text:"Human immunodeficiency virus 2", leaf: true, checked: false, rollup: true, common_name: "11709", taxid: "11709"}
+			]},
+			{text:"Equine infectious anemia virus", expanded: true, rollup: true, checked: false, taxid: "11665", children: [
+					{text:"Equine infectious anemia virus (CLONE 1369)", leaf: true, checked: false, rollup: true, common_name: "11670", taxid: "11670"},
+					{text:"Equine infectious anemia virus", leaf: true, checked: false, rollup: true, common_name: "11665", taxid: "11665"}
+			]},
+			{text:"Caprine arthritis encephalitis virus", expanded: true, rollup: true, checked: false, taxid: "11660", children: [
+					{text:"Caprine arthritis encephalitis virus", leaf: true, checked: false, rollup: true, common_name: "11660", taxid: "11660"}
+			]},
+			{text:"Human immunodeficiency virus 1", expanded: true, rollup: true, checked: false, taxid: "11676", children: [
+					{text:"HIV-1 M:B_Lai", leaf: true, checked: false, rollup: true, common_name: "290579", taxid: "290579"},
+					{text:"Human immunodeficiency virus type 1 (isolate YU2)", leaf: true, checked: false, rollup: true, common_name: "362651", taxid: "362651"},
+					{text:"Human immunodeficiency virus type 1 (CLONE 12)", leaf: true, checked: false, rollup: true, common_name: "11679", taxid: "11679"},
+					{text:"Human immunodeficiency virus type 1 (BRU ISOLATE)", leaf: true, checked: false, rollup: true, common_name: "11686", taxid: "11686"},
+					{text:"HIV-1 M:B_MN", leaf: true, checked: false, rollup: true, common_name: "11696", taxid: "11696"},
+					{text:"HIV-1 M:B_ARV2/SF2", leaf: true, checked: false, rollup: true, common_name: "11685", taxid: "11685"},
+					{text:"Human immunodeficiency virus type 1 BH10", leaf: true, checked: false, rollup: true, common_name: "11678", taxid: "11678"},
+					{text:"Human immunodeficiency virus type 1 (SF162 ISOLATE)", leaf: true, checked: false, rollup: true, common_name: "11691", taxid: "11691"},
+					{text:"Human immunodeficiency virus type 1 (HXB3 ISOLATE)", leaf: true, checked: false, rollup: true, common_name: "11707", taxid: "11707"},
+					{text:"Human immunodeficiency virus type 1 (NEW YORK-5 ISOLATE)", leaf: true, checked: false, rollup: true, common_name: "11698", taxid: "11698"},
+					{text:"Human immunodeficiency virus type 1 (ELI ISOLATE)", leaf: true, checked: false, rollup: true, common_name: "11689", taxid: "11689"},
+					{text:"Human immunodeficiency virus 1", leaf: true, checked: false, rollup: true, common_name: "11676", taxid: "11676"},
+					{text:"HIV-1 M:B_HXB2R", leaf: true, checked: false, rollup: true, common_name: "11706", taxid: "11706"}
+			]},
+			{text:"Simian immunodeficiency virus", expanded: true, rollup: true, checked: false, taxid: "11723", children: [
+					{text:"Simian immunodeficiency virus - agm.tan-1", leaf: true, checked: false, rollup: true, common_name: "349975", taxid: "349975"},
+					{text:"Simian immunodeficiency virus (MM142-83 ISOLATE)", leaf: true, checked: false, rollup: true, common_name: "11733", taxid: "11733"},
+					{text:"Simian immunodeficiency virus", leaf: true, checked: false, rollup: true, common_name: "11723", taxid: "11723"}
+			]}
+		]},
+		{text:"Spumavirus", expanded: false, rollup: true, checked: false, taxid: "11640", children: [
+			{text:"Simian foamy virus", expanded: true, rollup: true, checked: false, taxid: "11642", children: [
+					{text:"Human foamy virus", leaf: true, checked: false, rollup: true, common_name: "11641", taxid: "11641"},
+					{text:"Human spumaretrovirus", leaf: true, checked: false, rollup: true, common_name: "11963", taxid: "11963"}
+			]}
+		]},
+		{text:"Alpharetrovirus", expanded: false, rollup: true, checked: false, taxid: "153057", children: [
+			{text:"Avian sarcoma virus CT10", expanded: true, rollup: true, checked: false, taxid: "11878", children: [
+					{text:"Avian sarcoma virus CT10", leaf: true, checked: false, rollup: true, common_name: "11878", taxid: "11878"}
+			]},
+			{text:"UR2 sarcoma virus", expanded: true, rollup: true, checked: false, taxid: "354090", children: [
+					{text:"UR2 sarcoma virus", leaf: true, checked: false, rollup: true, common_name: "354090", taxid: "354090"}
+			]},
+			{text:"Rous sarcoma virus", expanded: true, rollup: true, checked: false, taxid: "11886", children: [
+					{text:"Rous sarcoma virus (strain H-19)", leaf: true, checked: false, rollup: true, common_name: "11887", taxid: "11887"},
+					{text:"Rous sarcoma virus (strain Schmidt-Ruppin A)", leaf: true, checked: false, rollup: true, common_name: "269446", taxid: "269446"},
+					{text:"Rous sarcoma virus", leaf: true, checked: false, rollup: true, common_name: "11886", taxid: "11886"}
+			]},
+			{text:"Y73 sarcoma virus", expanded: true, rollup: true, checked: false, taxid: "11884", children: [
+					{text:"Avian sarcoma virus PR2257", leaf: true, checked: false, rollup: true, common_name: "11879", taxid: "11879"}
+			]}
+		]}
+	]},
+	{text:"Hepeviridae", expanded: false, rollup: false, checked: false, taxid: "291484", children: [
+		{text:"Hepevirus", expanded: false, rollup: true, checked: false, taxid: "186677", children: [
+			{text:"Hepatitis E virus", expanded: true, rollup: true, checked: false, taxid: "12461", children: [
+					{text:"Hepatitis E virus (strain Mexico)", leaf: true, checked: false, rollup: true, common_name: "31768", taxid: "31768"},
+					{text:"Hepatitis E virus", leaf: true, checked: false, rollup: true, common_name: "12461", taxid: "12461"},
+					{text:"Hepatitis E virus (strain Burma)", leaf: true, checked: false, rollup: true, common_name: "31767", taxid: "31767"}
+			]}
+		]}
+	]},
+	{text:"Bhendi yellow vein betasatellite", expanded: false, rollup: false, checked: false, taxid: "186371", children: [
+			{text:"Bhendi yellow vein betasatellite", leaf: true, checked: false, rollup: true, common_name: "186371", taxid: "186371"}
+	]},
+	{text:"Arenaviridae", expanded: false, rollup: false, checked: false, taxid: "11617", children: [
+		{text:"Arenavirus", expanded: false, rollup: true, checked: false, taxid: "11618", children: [
+			{text:"Lymphocytic choriomeningitis virus", expanded: true, rollup: true, checked: false, taxid: "11623", children: [
+					{text:"Lymphocytic choriomeningitis virus (strain Armstrong)", leaf: true, checked: false, rollup: true, common_name: "11624", taxid: "11624"}
+			]},
+			{text:"Lassa virus", expanded: true, rollup: true, checked: false, taxid: "11620", children: [
+					{text:"Lassa virus", leaf: true, checked: false, rollup: true, common_name: "11620", taxid: "11620"}
+			]},
+			{text:"Sabia virus", expanded: true, rollup: true, checked: false, taxid: "45709", children: [
+					{text:"Sabia virus", leaf: true, checked: false, rollup: true, common_name: "45709", taxid: "45709"}
+			]},
+			{text:"Guanarito virus", expanded: true, rollup: true, checked: false, taxid: "45219", children: [
+					{text:"Guanarito virus", leaf: true, checked: false, rollup: true, common_name: "45219", taxid: "45219"}
+			]},
+			{text:"Junin virus", expanded: true, rollup: true, checked: false, taxid: "11619", children: [
+					{text:"Junin virus", leaf: true, checked: false, rollup: true, common_name: "11619", taxid: "11619"}
+			]},
+			{text:"Machupo virus", expanded: true, rollup: true, checked: false, taxid: "11628", children: [
+					{text:"Machupo virus", leaf: true, checked: false, rollup: true, common_name: "11628", taxid: "11628"}
+			]}
+		]}
+	]},
+	{text:"Togaviridae", expanded: false, rollup: false, checked: false, taxid: "11018", children: [
+		{text:"Rubivirus", expanded: false, rollup: true, checked: false, taxid: "11040", children: [
+			{text:"Rubella virus", expanded: true, rollup: true, checked: false, taxid: "11041", children: [
+					{text:"Rubella virus strain M33", leaf: true, checked: false, rollup: true, common_name: "11043", taxid: "11043"},
+					{text:"Rubella virus", leaf: true, checked: false, rollup: true, common_name: "11041", taxid: "11041"},
+					{text:"Rubella virus vaccine strain RA27/3", leaf: true, checked: false, rollup: true, common_name: "11044", taxid: "11044"},
+					{text:"Rubella virus strain Therien", leaf: true, checked: false, rollup: true, common_name: "11045", taxid: "11045"}
+			]}
+		]},
+		{text:"Alphavirus", expanded: false, rollup: true, checked: false, taxid: "11019", children: [
+			{text:"Venezuelan equine encephalitis virus", expanded: true, rollup: true, checked: false, taxid: "11036", children: [
+					{text:"Venezuelan equine encephalitis virus", leaf: true, checked: false, rollup: true, common_name: "11036", taxid: "11036"}
+			]},
+			{text:"Sindbis virus", expanded: true, rollup: true, checked: false, taxid: "11034", children: [
+					{text:"Sindbis virus", leaf: true, checked: false, rollup: true, common_name: "11034", taxid: "11034"}
+			]}
+		]}
+	]},
+	{text:"Deltavirus", expanded: false, rollup: false, checked: false, taxid: "39759", children: [
+		{text:"Hepatitis delta virus", expanded: false, rollup: true, checked: false, taxid: "12475", children: [
+				{text:"Hepatitis delta virus", leaf: true, checked: false, rollup: true, common_name: "12475", taxid: "12475"}
+		]}
+	]},
+	{text:"Flaviviridae", expanded: false, rollup: false, checked: false, taxid: "11050", children: [
+		{text:"Hepacivirus", expanded: false, rollup: true, checked: false, taxid: "11102", children: [
+			{text:"Hepatitis C virus", expanded: true, rollup: true, checked: false, taxid: "11103", children: [
+					{text:"Hepatitis C virus isolate HC-J6", leaf: true, checked: false, rollup: true, common_name: "11113", taxid: "11113"},
+					{text:"Hepatitis C virus isolate HC-J1", leaf: true, checked: false, rollup: true, common_name: "421877", taxid: "421877"},
+					{text:"Hepatitis C virus subtype 1a", leaf: true, checked: false, rollup: true, common_name: "31646", taxid: "31646"},
+					{text:"Hepatitis C virus", leaf: true, checked: false, rollup: true, common_name: "11103", taxid: "11103"},
+					{text:"Hepatitis C virus (isolate Con1)", leaf: true, checked: false, rollup: true, common_name: "333284", taxid: "333284"},
+					{text:"Hepatitis C virus (isolate BK)", leaf: true, checked: false, rollup: true, common_name: "11105", taxid: "11105"},
+					{text:"Hepatitis C virus (isolate 1)", leaf: true, checked: false, rollup: true, common_name: "11104", taxid: "11104"},
+					{text:"Hepatitis C virus (isolate Japanese)", leaf: true, checked: false, rollup: true, common_name: "11116", taxid: "11116"},
+					{text:"Hepatitis C virus JFH-1", leaf: true, checked: false, rollup: true, common_name: "356411", taxid: "356411"},
+					{text:"Hepatitis C virus (isolate H)", leaf: true, checked: false, rollup: true, common_name: "11108", taxid: "11108"},
+					{text:"Hepatitis C virus (isolate Taiwan)", leaf: true, checked: false, rollup: true, common_name: "31645", taxid: "31645"},
+					{text:"Hepatitis C virus isolate HC-J4", leaf: true, checked: false, rollup: true, common_name: "420174", taxid: "420174"}
+			]}
+		]},
+		{text:"Pestivirus", expanded: false, rollup: true, checked: false, taxid: "11095", children: [
+			{text:"Bovine viral diarrhea virus 1", expanded: true, rollup: true, checked: false, taxid: "11099", children: [
+					{text:"Bovine viral diarrhea virus 1", leaf: true, checked: false, rollup: true, common_name: "11099", taxid: "11099"}
+			]},
+			{text:"Bovine viral diarrhea virus 2", expanded: true, rollup: true, checked: false, taxid: "54315", children: [
+					{text:"Bovine viral diarrhea virus 2", leaf: true, checked: false, rollup: true, common_name: "BVDV-2", taxid: "54315"}
+			]},
+			{text:"Classical swine fever virus", expanded: true, rollup: true, checked: false, taxid: "11096", children: [
+					{text:"Classical swine fever virus", leaf: true, checked: false, rollup: true, common_name: "11096", taxid: "11096"}
+			]}
+		]},
+		{text:"Flavivirus", expanded: false, rollup: true, checked: false, taxid: "11051", children: [
+			{text:"Dengue virus", expanded: true, rollup: true, checked: false, taxid: "12637", children: [
+					{text:"Dengue virus 2", leaf: true, checked: false, rollup: true, common_name: "11060", taxid: "11060"},
+					{text:"Dengue virus 2 16681-PDK53", leaf: true, checked: false, rollup: true, common_name: "31635", taxid: "31635"},
+					{text:"Dengue virus 4", leaf: true, checked: false, rollup: true, common_name: "11070", taxid: "11070"},
+					{text:"Dengue virus 1", leaf: true, checked: false, rollup: true, common_name: "11053", taxid: "11053"},
+					{text:"Dengue virus 2 Thailand/NGS-C/1944", leaf: true, checked: false, rollup: true, common_name: "11065", taxid: "11065"}
+			]},
+			{text:"Yellow fever virus", expanded: true, rollup: true, checked: false, taxid: "11089", children: [
+					{text:"Yellow fever virus", leaf: true, checked: false, rollup: true, common_name: "11089", taxid: "11089"}
+			]},
+			{text:"Langat virus", expanded: true, rollup: true, checked: false, taxid: "11085", children: [
+					{text:"Langat virus", leaf: true, checked: false, rollup: true, common_name: "11085", taxid: "11085"}
+			]},
+			{text:"Tick-borne encephalitis virus", expanded: true, rollup: true, checked: false, taxid: "11084", children: [
+					{text:"Tick-borne encephalitis virus", leaf: true, checked: false, rollup: true, common_name: "11084", taxid: "11084"}
+			]},
+			{text:"West Nile virus", expanded: true, rollup: true, checked: false, taxid: "11082", children: [
+					{text:"West Nile virus", leaf: true, checked: false, rollup: true, common_name: "11082", taxid: "11082"}
+			]}
+		]}
+	]}
+]}

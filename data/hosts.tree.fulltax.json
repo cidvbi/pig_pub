@@ -1,0 +1,87 @@
+{text:"Eukaryota", expanded: true, rollup: false, checked: false, taxid: "2759", children: [
+	{text:"Metazoa", expanded: false, rollup: false, checked: false, taxid: "33208", children: [
+		{text:"Nematoda", expanded: false, rollup: false, checked: false, taxid: "6231", children: [
+			{text:"Chromadorea", expanded: true, rollup: false, checked: false, taxid: "119089", children: [
+				{text:"Rhabditida", expanded: true, rollup: false, checked: false, taxid: "6236", children: [
+					{text:"Rhabditidae", expanded: true, rollup: false, checked: false, taxid: "6243", children: [
+						{text:"Caenorhabditis", expanded: true, rollup: true, checked: false, taxid: "6237", children: [
+							{text:"Caenorhabditis elegans", expanded: true, rollup: true, checked: false, taxid: "6239", children: [
+									{text:"Caenorhabditis elegans", leaf: true, checked: false, rollup: true, common_name: "nematode", taxid: "6239"}
+							]}
+						]}
+					]}
+				]}
+			]}
+		]},
+		{text:"Chordata", expanded: false, rollup: false, checked: false, taxid: "7711", children: [
+			{text:"Actinopterygii", expanded: true, rollup: false, checked: false, taxid: "7898", children: [
+				{text:"Cypriniformes", expanded: true, rollup: false, checked: false, taxid: "7952", children: [
+					{text:"Cyprinidae", expanded: true, rollup: false, checked: false, taxid: "7953", children: [
+						{text:"Danio", expanded: true, rollup: true, checked: false, taxid: "7954", children: [
+							{text:"Danio rerio", expanded: true, rollup: true, checked: false, taxid: "7955", children: [
+									{text:"Danio rerio", leaf: true, checked: false, rollup: true, common_name: "zebrafish", taxid: "7955"}
+							]}
+						]}
+					]}
+				]}
+			]},
+			{text:"Mammalia", expanded: true, rollup: false, checked: false, taxid: "40674", children: [
+				{text:"Carnivora", expanded: true, rollup: false, checked: false, taxid: "33554", children: [
+					{text:"Mustelidae", expanded: true, rollup: false, checked: false, taxid: "9655", children: [
+						{text:"Mustela", expanded: true, rollup: true, checked: false, taxid: "9665", children: [
+							{text:"Mustela putorius", expanded: true, rollup: true, checked: false, taxid: "9668", children: [
+									{text:"Mustela putorius furo", leaf: true, checked: false, rollup: true, common_name: "domestic ferret", taxid: "9669"}
+							]}
+						]}
+					]}
+				]},
+				{text:"Primates", expanded: true, rollup: false, checked: false, taxid: "9443", children: [
+					{text:"Hominidae", expanded: true, rollup: false, checked: false, taxid: "9604", children: [
+						{text:"Homo", expanded: true, rollup: true, checked: false, taxid: "9605", children: [
+							{text:"Homo sapiens", expanded: true, rollup: true, checked: false, taxid: "9606", children: [
+									{text:"Homo sapiens", leaf: true, checked: false, rollup: true, common_name: "human", taxid: "9606"}
+							]}
+						]}
+					]},
+					{text:"Cercopithecidae", expanded: true, rollup: false, checked: false, taxid: "9527", children: [
+						{text:"Macaca", expanded: true, rollup: true, checked: false, taxid: "9539", children: [
+							{text:"Macaca fascicularis", expanded: true, rollup: true, checked: false, taxid: "9541", children: [
+									{text:"Macaca fascicularis", leaf: true, checked: false, rollup: true, common_name: "crab-eating macaque", taxid: "9541"}
+							]},
+							{text:"Macaca radiata", expanded: true, rollup: true, checked: false, taxid: "9548", children: [
+									{text:"Macaca radiata", leaf: true, checked: false, rollup: true, common_name: "bonnet macaque", taxid: "9548"}
+							]},
+							{text:"Macaca mulatta", expanded: true, rollup: true, checked: false, taxid: "9544", children: [
+									{text:"Macaca mulatta", leaf: true, checked: false, rollup: true, common_name: "Rhesus monkey", taxid: "9544"}
+							]}
+						]}
+					]}
+				]},
+				{text:"Rodentia", expanded: true, rollup: false, checked: false, taxid: "9989", children: [
+					{text:"Muridae", expanded: true, rollup: false, checked: false, taxid: "10066", children: [
+						{text:"Rattus", expanded: true, rollup: true, checked: false, taxid: "10114", children: [
+							{text:"Rattus norvegicus", expanded: true, rollup: true, checked: false, taxid: "10116", children: [
+									{text:"Rattus norvegicus", leaf: true, checked: false, rollup: true, common_name: "Norway rat", taxid: "10116"}
+							]}
+						]},
+						{text:"Mus", expanded: true, rollup: true, checked: false, taxid: "862507", children: [
+							{text:"Mus musculus", expanded: true, rollup: true, checked: false, taxid: "10090", children: [
+									{text:"Mus musculus domesticus", leaf: true, checked: false, rollup: true, common_name: "western European house mouse", taxid: "10092"},
+									{text:"Mus musculus", leaf: true, checked: false, rollup: true, common_name: "house mouse", taxid: "10090"}
+							]}
+						]}
+					]}
+				]},
+				{text:"Lagomorpha", expanded: true, rollup: false, checked: false, taxid: "9975", children: [
+					{text:"Leporidae", expanded: true, rollup: false, checked: false, taxid: "9979", children: [
+						{text:"Oryctolagus", expanded: true, rollup: true, checked: false, taxid: "9984", children: [
+							{text:"Oryctolagus cuniculus", expanded: true, rollup: true, checked: false, taxid: "9986", children: [
+									{text:"Oryctolagus cuniculus", leaf: true, checked: false, rollup: true, common_name: "rabbit", taxid: "9986"}
+							]}
+						]}
+					]}
+				]}
+			]}
+		]}
+	]}
+]}

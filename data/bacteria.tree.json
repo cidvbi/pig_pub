@@ -1,0 +1,662 @@
+{text:"Bacteria", expanded: true, rollup: false, checked: false, taxid: "2", children: [
+	{text:"Chlamydiae/Verrucomicrobia group", expanded: false, rollup: false, checked: false, taxid: "51290", children: [
+		{text:"Chlamydiae", expanded: false, rollup: false, checked: false, taxid: "204429", children: [
+			{text:"Chlamydiia", expanded: true, rollup: false, checked: false, taxid: "204429", children: [
+				{text:"Chlamydiales", expanded: true, rollup: false, checked: false, taxid: "51291", children: [
+					{text:"Chlamydiaceae", expanded: true, rollup: false, checked: false, taxid: "809", children: [
+						{text:"Chlamydia", expanded: true, rollup: true, checked: false, taxid: "810", children: [
+							{text:"Chlamydia trachomatis", expanded: true, rollup: true, checked: false, taxid: "813", children: [
+									{text:"Chlamydia trachomatis D/UW-3/CX", leaf: true, checked: false, rollup: true, common_name: "272561", taxid: "272561"}
+							]}
+						]}
+					]}
+				]}
+			]}
+		]}
+	]},
+	{text:"Aquificae", expanded: false, rollup: false, checked: false, taxid: "200783", children: [
+		{text:"Aquificae", expanded: false, rollup: false, checked: false, taxid: "200783", children: [
+			{text:"Aquificales", expanded: true, rollup: false, checked: false, taxid: "32069", children: [
+				{text:"Aquificaceae", expanded: true, rollup: false, checked: false, taxid: "64898", children: [
+					{text:"Aquifex", expanded: true, rollup: false, checked: false, taxid: "2713", children: [
+						{text:"Aquifex aeolicus", expanded: true, rollup: true, checked: false, taxid: "63363", children: [
+								{text:"Aquifex aeolicus VF5", leaf: true, checked: false, rollup: true, common_name: "224324", taxid: "224324"}
+						]}
+					]}
+				]}
+			]}
+		]}
+	]},
+	{text:"Actinobacteria", expanded: false, rollup: false, checked: false, taxid: "201174", children: [
+		{text:"Actinobacteria", expanded: false, rollup: false, checked: false, taxid: "201174", children: [
+			{text:"Actinomycetales", expanded: true, rollup: false, checked: false, taxid: "2037", children: [
+				{text:"Corynebacteriaceae", expanded: true, rollup: false, checked: false, taxid: "1653", children: [
+					{text:"Corynebacterium", expanded: true, rollup: false, checked: false, taxid: "1716", children: [
+						{text:"Corynebacterium glutamicum", expanded: true, rollup: true, checked: false, taxid: "1718", children: [
+								{text:"Corynebacterium glutamicum ATCC 13032", leaf: true, checked: false, rollup: true, common_name: "196627", taxid: "196627"}
+						]}
+					]}
+				]},
+				{text:"Streptomycetaceae", expanded: true, rollup: false, checked: false, taxid: "2062", children: [
+					{text:"Streptomyces", expanded: true, rollup: false, checked: false, taxid: "1883", children: [
+						{text:"Streptomyces coelicolor", expanded: true, rollup: true, checked: false, taxid: "1902", children: [
+								{text:"Streptomyces coelicolor A3(2)", leaf: true, checked: false, rollup: true, common_name: "100226", taxid: "100226"}
+						]}
+					]}
+				]},
+				{text:"Nocardiaceae", expanded: true, rollup: false, checked: false, taxid: "85025", children: [
+					{text:"Rhodococcus", expanded: true, rollup: false, checked: false, taxid: "1827", children: [
+						{text:"Rhodococcus rhodochrous", expanded: true, rollup: true, checked: false, taxid: "1829", children: [
+								{text:"Rhodococcus rhodochrous", leaf: true, checked: false, rollup: true, common_name: "1829", taxid: "1829"}
+						]},
+						{text:"Rhodococcus erythropolis", expanded: true, rollup: true, checked: false, taxid: "1833", children: [
+								{text:"Rhodococcus erythropolis", leaf: true, checked: false, rollup: true, common_name: "1833", taxid: "1833"}
+						]},
+						{text:"Rhodococcus jostii", expanded: true, rollup: true, checked: false, taxid: "132919", children: [
+								{text:"Rhodococcus jostii RHA1", leaf: true, checked: false, rollup: true, common_name: "101510", taxid: "101510"}
+						]}
+					]}
+				]},
+				{text:"Mycobacteriaceae", expanded: true, rollup: false, checked: false, taxid: "1762", children: [
+					{text:"Mycobacterium", expanded: true, rollup: false, checked: false, taxid: "1763", children: [
+						{text:"Mycobacterium tuberculosis", expanded: true, rollup: true, checked: false, taxid: "1773", children: [
+								{text:"Mycobacterium tuberculosis H37Rv", leaf: true, checked: false, rollup: true, common_name: "83332", taxid: "83332"},
+								{text:"Mycobacterium tuberculosis CDC1551", leaf: true, checked: false, rollup: true, common_name: "83331", taxid: "83331"},
+								{text:"Mycobacterium tuberculosis C", leaf: true, checked: false, rollup: true, common_name: "348776", taxid: "348776"}
+						]},
+						{text:"Mycobacterium smegmatis", expanded: true, rollup: true, checked: false, taxid: "1772", children: [
+								{text:"Mycobacterium smegmatis str. MC2 155", leaf: true, checked: false, rollup: true, common_name: "246196", taxid: "246196"}
+						]}
+					]}
+				]}
+			]}
+		]}
+	]},
+	{text:"Proteobacteria", expanded: false, rollup: false, checked: false, taxid: "1224", children: [
+		{text:"Epsilonproteobacteria", expanded: false, rollup: false, checked: false, taxid: "29547", children: [
+			{text:"Campylobacterales", expanded: true, rollup: false, checked: false, taxid: "213849", children: [
+				{text:"Helicobacteraceae", expanded: true, rollup: false, checked: false, taxid: "72293", children: [
+					{text:"Helicobacter", expanded: true, rollup: false, checked: false, taxid: "209", children: [
+						{text:"Helicobacter pylori", expanded: true, rollup: true, checked: false, taxid: "210", children: [
+								{text:"Helicobacter pylori J99", leaf: true, checked: false, rollup: true, common_name: "85963", taxid: "85963"},
+								{text:"Helicobacter pylori", leaf: true, checked: false, rollup: true, common_name: "210", taxid: "210"},
+								{text:"Helicobacter pylori 26695", leaf: true, checked: false, rollup: true, common_name: "85962", taxid: "85962"}
+						]}
+					]}
+				]},
+				{text:"Campylobacteraceae", expanded: true, rollup: false, checked: false, taxid: "72294", children: [
+					{text:"Campylobacter", expanded: true, rollup: false, checked: false, taxid: "194", children: [
+						{text:"Campylobacter jejuni", expanded: true, rollup: true, checked: false, taxid: "197", children: [
+								{text:"Campylobacter jejuni subsp. jejuni CF93-6", leaf: true, checked: false, rollup: true, common_name: "360111", taxid: "360111"},
+								{text:"Campylobacter jejuni subsp. jejuni 81-176", leaf: true, checked: false, rollup: true, common_name: "354242", taxid: "354242"},
+								{text:"Campylobacter jejuni subsp. jejuni 260.94", leaf: true, checked: false, rollup: true, common_name: "360108", taxid: "360108"},
+								{text:"Campylobacter jejuni", leaf: true, checked: false, rollup: true, common_name: "197", taxid: "197"},
+								{text:"Campylobacter jejuni subsp. jejuni 84-25", leaf: true, checked: false, rollup: true, common_name: "360110", taxid: "360110"},
+								{text:"Campylobacter jejuni subsp. jejuni NCTC 11168 = ATCC 700819", leaf: true, checked: false, rollup: true, common_name: "192222", taxid: "192222"},
+								{text:"Campylobacter jejuni subsp. jejuni HB93-13", leaf: true, checked: false, rollup: true, common_name: "360112", taxid: "360112"}
+						]},
+						{text:"Campylobacter lari", expanded: true, rollup: true, checked: false, taxid: "201", children: [
+								{text:"Campylobacter lari RM2100", leaf: true, checked: false, rollup: true, common_name: "306263", taxid: "306263"}
+						]}
+					]}
+				]}
+			]}
+		]},
+		{text:"Alphaproteobacteria", expanded: false, rollup: false, checked: false, taxid: "28211", children: [
+			{text:"Rhizobiales", expanded: true, rollup: false, checked: false, taxid: "356", children: [
+				{text:"Rhizobiaceae", expanded: true, rollup: false, checked: false, taxid: "82115", children: [
+					{text:"Sinorhizobium", expanded: true, rollup: false, checked: false, taxid: "28105", children: [
+						{text:"Sinorhizobium fredii", expanded: true, rollup: true, checked: false, taxid: "380", children: [
+								{text:"Sinorhizobium fredii NGR234", leaf: true, checked: false, rollup: true, common_name: "394", taxid: "394"}
+						]},
+						{text:"Sinorhizobium meliloti", expanded: true, rollup: true, checked: false, taxid: "382", children: [
+								{text:"Sinorhizobium meliloti 1021", leaf: true, checked: false, rollup: true, common_name: "266834", taxid: "266834"}
+						]}
+					]},
+					{text:"Agrobacterium", expanded: true, rollup: false, checked: false, taxid: "357", children: [
+						{text:"Agrobacterium tumefaciens", expanded: true, rollup: true, checked: false, taxid: "358", children: [
+								{text:"Agrobacterium tumefaciens", leaf: true, checked: false, rollup: true, common_name: "358", taxid: "358"}
+						]},
+						{text:"Agrobacterium fabrum", expanded: true, rollup: true, checked: false, taxid: "1176649", children: [
+								{text:"Agrobacterium fabrum str. C58", leaf: true, checked: false, rollup: true, common_name: "176299", taxid: "176299"}
+						]}
+					]}
+				]},
+				{text:"Methylobacteriaceae", expanded: true, rollup: false, checked: false, taxid: "119045", children: [
+					{text:"Methylobacterium", expanded: true, rollup: false, checked: false, taxid: "407", children: [
+						{text:"Methylobacterium extorquens", expanded: true, rollup: true, checked: false, taxid: "408", children: [
+								{text:"Methylobacterium extorquens AM1", leaf: true, checked: false, rollup: true, common_name: "272630", taxid: "272630"}
+						]}
+					]}
+				]},
+				{text:"Bradyrhizobiaceae", expanded: true, rollup: false, checked: false, taxid: "41294", children: [
+					{text:"Rhodopseudomonas", expanded: true, rollup: false, checked: false, taxid: "1073", children: [
+						{text:"Rhodopseudomonas palustris", expanded: true, rollup: true, checked: false, taxid: "1076", children: [
+								{text:"Rhodopseudomonas palustris CGA009", leaf: true, checked: false, rollup: true, common_name: "258594", taxid: "258594"}
+						]}
+					]}
+				]}
+			]},
+			{text:"Rickettsiales", expanded: true, rollup: false, checked: false, taxid: "766", children: [
+				{text:"Rickettsiaceae", expanded: true, rollup: false, checked: false, taxid: "775", children: [
+					{text:"Rickettsia", expanded: true, rollup: false, checked: false, taxid: "780", children: [
+						{text:"Rickettsia sibirica", expanded: true, rollup: true, checked: false, taxid: "35793", children: [
+								{text:"Rickettsia sibirica 246", leaf: true, checked: false, rollup: true, common_name: "272951", taxid: "272951"}
+						]}
+					]}
+				]},
+				{text:"Anaplasmataceae", expanded: true, rollup: false, checked: false, taxid: "942", children: [
+					{text:"Ehrlichia", expanded: true, rollup: false, checked: false, taxid: "943", children: [
+						{text:"Ehrlichia chaffeensis", expanded: true, rollup: true, checked: false, taxid: "945", children: [
+								{text:"Ehrlichia chaffeensis str. Arkansas", leaf: true, checked: false, rollup: true, common_name: "205920", taxid: "205920"}
+						]}
+					]}
+				]}
+			]},
+			{text:"Caulobacterales", expanded: true, rollup: false, checked: false, taxid: "204458", children: [
+				{text:"Caulobacteraceae", expanded: true, rollup: false, checked: false, taxid: "76892", children: [
+					{text:"Caulobacter", expanded: true, rollup: false, checked: false, taxid: "75", children: [
+						{text:"Caulobacter vibrioides", expanded: true, rollup: true, checked: false, taxid: "155892", children: [
+								{text:"Caulobacter crescentus NA1000", leaf: true, checked: false, rollup: true, common_name: "565050", taxid: "565050"},
+								{text:"Caulobacter crescentus CB15", leaf: true, checked: false, rollup: true, common_name: "190650", taxid: "190650"}
+						]}
+					]}
+				]}
+			]},
+			{text:"Rhodobacterales", expanded: true, rollup: false, checked: false, taxid: "204455", children: [
+				{text:"Rhodobacteraceae", expanded: true, rollup: false, checked: false, taxid: "31989", children: [
+					{text:"Rhodobacter", expanded: true, rollup: false, checked: false, taxid: "1060", children: [
+						{text:"Rhodobacter sphaeroides", expanded: true, rollup: true, checked: false, taxid: "1063", children: [
+								{text:"Rhodobacter sphaeroides 2.4.1", leaf: true, checked: false, rollup: true, common_name: "272943", taxid: "272943"}
+						]}
+					]}
+				]}
+			]}
+		]},
+		{text:"Gammaproteobacteria", expanded: false, rollup: false, checked: false, taxid: "1236", children: [
+			{text:"Pasteurellales", expanded: true, rollup: false, checked: false, taxid: "135625", children: [
+				{text:"Pasteurellaceae", expanded: true, rollup: false, checked: false, taxid: "712", children: [
+					{text:"Haemophilus", expanded: true, rollup: false, checked: false, taxid: "724", children: [
+						{text:"Haemophilus ducreyi", expanded: true, rollup: true, checked: false, taxid: "730", children: [
+								{text:"Haemophilus ducreyi", leaf: true, checked: false, rollup: true, common_name: "730", taxid: "730"},
+								{text:"Haemophilus ducreyi 35000HP", leaf: true, checked: false, rollup: true, common_name: "233412", taxid: "233412"}
+						]},
+						{text:"Haemophilus influenzae", expanded: true, rollup: true, checked: false, taxid: "727", children: [
+								{text:"Haemophilus influenzae Rd KW20", leaf: true, checked: false, rollup: true, common_name: "71421", taxid: "71421"}
+						]}
+					]}
+				]}
+			]},
+			{text:"Aeromonadales", expanded: true, rollup: false, checked: false, taxid: "135624", children: [
+				{text:"Aeromonadaceae", expanded: true, rollup: false, checked: false, taxid: "84642", children: [
+					{text:"Aeromonas", expanded: true, rollup: false, checked: false, taxid: "642", children: [
+						{text:"Aeromonas hydrophila", expanded: true, rollup: true, checked: false, taxid: "644", children: [
+								{text:"Aeromonas hydrophila", leaf: true, checked: false, rollup: true, common_name: "644", taxid: "644"}
+						]}
+					]}
+				]}
+			]},
+			{text:"Legionellales", expanded: true, rollup: false, checked: false, taxid: "118969", children: [
+				{text:"Legionellaceae", expanded: true, rollup: false, checked: false, taxid: "444", children: [
+					{text:"Legionella", expanded: true, rollup: false, checked: false, taxid: "445", children: [
+						{text:"Legionella pneumophila", expanded: true, rollup: true, checked: false, taxid: "446", children: [
+								{text:"Legionella pneumophila subsp. pneumophila str. Philadelphia 1", leaf: true, checked: false, rollup: true, common_name: "272624", taxid: "272624"}
+						]}
+					]}
+				]}
+			]},
+			{text:"Vibrionales", expanded: true, rollup: false, checked: false, taxid: "135623", children: [
+				{text:"Vibrionaceae", expanded: true, rollup: false, checked: false, taxid: "641", children: [
+					{text:"Photobacterium", expanded: true, rollup: false, checked: false, taxid: "657", children: [
+						{text:"Photobacterium angustum", expanded: true, rollup: true, checked: false, taxid: "661", children: [
+								{text:"Photobacterium angustum S14", leaf: true, checked: false, rollup: true, common_name: "314292", taxid: "314292"}
+						]}
+					]},
+					{text:"Vibrio", expanded: true, rollup: false, checked: false, taxid: "662", children: [
+						{text:"Vibrio alginolyticus", expanded: true, rollup: true, checked: false, taxid: "663", children: [
+								{text:"Vibrio alginolyticus", leaf: true, checked: false, rollup: true, common_name: "663", taxid: "663"}
+						]},
+						{text:"Vibrio vulnificus", expanded: true, rollup: true, checked: false, taxid: "672", children: [
+								{text:"Vibrio vulnificus YJ016", leaf: true, checked: false, rollup: true, common_name: "196600", taxid: "196600"}
+						]},
+						{text:"Vibrio cholerae", expanded: true, rollup: true, checked: false, taxid: "666", children: [
+								{text:"Vibrio cholerae V52", leaf: true, checked: false, rollup: true, common_name: "345076", taxid: "345076"},
+								{text:"Vibrio cholerae", leaf: true, checked: false, rollup: true, common_name: "666", taxid: "666"},
+								{text:"Vibrio cholerae O395", leaf: true, checked: false, rollup: true, common_name: "345073", taxid: "345073"},
+								{text:"Vibrio cholerae O1 biovar El Tor str. N16961", leaf: true, checked: false, rollup: true, common_name: "243277", taxid: "243277"}
+						]}
+					]}
+				]}
+			]},
+			{text:"Xanthomonadales", expanded: true, rollup: false, checked: false, taxid: "135614", children: [
+				{text:"Xanthomonadaceae", expanded: true, rollup: false, checked: false, taxid: "32033", children: [
+					{text:"Xanthomonas", expanded: true, rollup: false, checked: false, taxid: "338", children: [
+						{text:"Xanthomonas euvesicatoria", expanded: true, rollup: true, checked: false, taxid: "456327", children: [
+								{text:"Xanthomonas campestris pv. vesicatoria str. 85-10", leaf: true, checked: false, rollup: true, common_name: "316273", taxid: "316273"}
+						]}
+					]}
+				]}
+			]},
+			{text:"Enterobacteriales", expanded: true, rollup: false, checked: false, taxid: "91347", children: [
+				{text:"Enterobacteriaceae", expanded: true, rollup: false, checked: false, taxid: "543", children: [
+					{text:"Edwardsiella", expanded: true, rollup: false, checked: false, taxid: "132406", children: [
+						{text:"Edwardsiella tarda", expanded: true, rollup: true, checked: false, taxid: "636", children: [
+								{text:"Edwardsiella tarda", leaf: true, checked: false, rollup: true, common_name: "636", taxid: "636"}
+						]}
+					]},
+					{text:"Salmonella", expanded: true, rollup: false, checked: false, taxid: "590", children: [
+						{text:"Salmonella enterica", expanded: true, rollup: true, checked: false, taxid: "28901", children: [
+								{text:"Salmonella enterica", leaf: true, checked: false, rollup: true, common_name: "28901", taxid: "28901"},
+								{text:"Salmonella enterica subsp. enterica serovar Typhimurium str. LT2", leaf: true, checked: false, rollup: true, common_name: "99287", taxid: "99287"},
+								{text:"Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344", leaf: true, checked: false, rollup: true, common_name: "216597", taxid: "216597"},
+								{text:"Salmonella enterica subsp. enterica serovar Typhimurium", leaf: true, checked: false, rollup: true, common_name: "90371", taxid: "90371"},
+								{text:"Salmonella enterica subsp. enterica serovar Dublin", leaf: true, checked: false, rollup: true, common_name: "98360", taxid: "98360"}
+						]}
+					]},
+					{text:"Shigella", expanded: true, rollup: false, checked: false, taxid: "620", children: [
+						{text:"Shigella flexneri", expanded: true, rollup: true, checked: false, taxid: "623", children: [
+								{text:"Shigella flexneri 2a str. 301", leaf: true, checked: false, rollup: true, common_name: "198214", taxid: "198214"},
+								{text:"Shigella flexneri", leaf: true, checked: false, rollup: true, common_name: "623", taxid: "623"},
+								{text:"Shigella flexneri 2a str. 2457T", leaf: true, checked: false, rollup: true, common_name: "198215", taxid: "198215"}
+						]}
+					]},
+					{text:"Escherichia", expanded: true, rollup: false, checked: false, taxid: "561", children: [
+						{text:"Escherichia coli", expanded: true, rollup: true, checked: false, taxid: "562", children: [
+								{text:"Escherichia coli O127:H6 str. E2348/69", leaf: true, checked: false, rollup: true, common_name: "574521", taxid: "574521"},
+								{text:"Escherichia coli", leaf: true, checked: false, rollup: true, common_name: "562", taxid: "562"},
+								{text:"Escherichia coli LF82", leaf: true, checked: false, rollup: true, common_name: "591946", taxid: "591946"},
+								{text:"Escherichia coli E24377A", leaf: true, checked: false, rollup: true, common_name: "331111", taxid: "331111"},
+								{text:"Escherichia coli O157:H7 str. EDL933", leaf: true, checked: false, rollup: true, common_name: "155864", taxid: "155864"},
+								{text:"Escherichia coli O55:H7 str. CB9615", leaf: true, checked: false, rollup: true, common_name: "701177", taxid: "701177"},
+								{text:"Escherichia coli str. K-12 substr. DH10B", leaf: true, checked: false, rollup: true, common_name: "316385", taxid: "316385"},
+								{text:"Escherichia coli HS", leaf: true, checked: false, rollup: true, common_name: "331112", taxid: "331112"},
+								{text:"Escherichia coli str. K-12 substr. MG1655", leaf: true, checked: false, rollup: true, common_name: "511145", taxid: "511145"}
+						]}
+					]},
+					{text:"Serratia", expanded: true, rollup: false, checked: false, taxid: "613", children: [
+						{text:"Serratia marcescens", expanded: true, rollup: true, checked: false, taxid: "615", children: [
+								{text:"Serratia marcescens", leaf: true, checked: false, rollup: true, common_name: "615", taxid: "615"}
+						]}
+					]},
+					{text:"Yersinia", expanded: true, rollup: false, checked: false, taxid: "444888", children: [
+						{text:"Yersinia pseudotuberculosis", expanded: true, rollup: true, checked: false, taxid: "633", children: [
+								{text:"Yersinia pseudotuberculosis IP 32953", leaf: true, checked: false, rollup: true, common_name: "273123", taxid: "273123"}
+						]},
+						{text:"Yersinia pestis", expanded: true, rollup: true, checked: false, taxid: "632", children: [
+								{text:"Yersinia pestis KIM10+", leaf: true, checked: false, rollup: true, common_name: "187410", taxid: "187410"},
+								{text:"Yersinia pestis CO92", leaf: true, checked: false, rollup: true, common_name: "214092", taxid: "214092"},
+								{text:"Yersinia pestis", leaf: true, checked: false, rollup: true, common_name: "632", taxid: "632"},
+								{text:"Yersinia pestis biovar Microtus str. 91001", leaf: true, checked: false, rollup: true, common_name: "229193", taxid: "229193"},
+								{text:"Yersinia pestis Antiqua", leaf: true, checked: false, rollup: true, common_name: "360102", taxid: "360102"}
+						]},
+						{text:"Yersinia enterocolitica", expanded: true, rollup: true, checked: false, taxid: "630", children: [
+								{text:"Yersinia enterocolitica", leaf: true, checked: false, rollup: true, common_name: "630", taxid: "630"},
+								{text:"Yersinia enterocolitica subsp. enterocolitica 8081", leaf: true, checked: false, rollup: true, common_name: "393305", taxid: "393305"}
+						]}
+					]},
+					{text:"Enterobacter", expanded: true, rollup: false, checked: false, taxid: "547", children: [
+						{text:"Enterobacter aerogenes", expanded: true, rollup: true, checked: false, taxid: "548", children: [
+								{text:"Enterobacter aerogenes", leaf: true, checked: false, rollup: true, common_name: "548", taxid: "548"}
+						]}
+					]},
+					{text:"Klebsiella", expanded: true, rollup: false, checked: false, taxid: "570", children: [
+						{text:"Klebsiella pneumoniae", expanded: true, rollup: true, checked: false, taxid: "573", children: [
+								{text:"Klebsiella pneumoniae KCTC 2242", leaf: true, checked: false, rollup: true, common_name: "1049565", taxid: "1049565"},
+								{text:"Klebsiella pneumoniae", leaf: true, checked: false, rollup: true, common_name: "573", taxid: "573"}
+						]},
+						{text:"Klebsiella oxytoca", expanded: true, rollup: true, checked: false, taxid: "571", children: [
+								{text:"Klebsiella oxytoca 10-5250", leaf: true, checked: false, rollup: true, common_name: "883125", taxid: "883125"}
+						]}
+					]},
+					{text:"Dickeya", expanded: true, rollup: false, checked: false, taxid: "204037", children: [
+						{text:"Dickeya dadantii", expanded: true, rollup: true, checked: false, taxid: "204038", children: [
+								{text:"Dickeya dadantii 3937", leaf: true, checked: false, rollup: true, common_name: "198628", taxid: "198628"}
+						]}
+					]}
+				]}
+			]},
+			{text:"Thiotrichales", expanded: true, rollup: false, checked: false, taxid: "72273", children: [
+				{text:"Francisellaceae", expanded: true, rollup: false, checked: false, taxid: "34064", children: [
+					{text:"Francisella", expanded: true, rollup: false, checked: false, taxid: "262", children: [
+						{text:"Francisella tularensis", expanded: true, rollup: true, checked: false, taxid: "263", children: [
+								{text:"Francisella tularensis subsp. tularensis WY96-3418", leaf: true, checked: false, rollup: true, common_name: "418136", taxid: "418136"},
+								{text:"Francisella tularensis subsp. tularensis SCHU S4", leaf: true, checked: false, rollup: true, common_name: "177416", taxid: "177416"}
+						]}
+					]}
+				]}
+			]},
+			{text:"Pseudomonadales", expanded: true, rollup: false, checked: false, taxid: "72274", children: [
+				{text:"Pseudomonadaceae", expanded: true, rollup: false, checked: false, taxid: "135621", children: [
+					{text:"Azotobacter", expanded: true, rollup: false, checked: false, taxid: "352", children: [
+						{text:"Azotobacter vinelandii", expanded: true, rollup: true, checked: false, taxid: "354", children: [
+								{text:"Azotobacter vinelandii DJ", leaf: true, checked: false, rollup: true, common_name: "322710", taxid: "322710"}
+						]}
+					]},
+					{text:"Pseudomonas", expanded: true, rollup: false, checked: false, taxid: "286", children: [
+						{text:"Pseudomonas putida", expanded: true, rollup: true, checked: false, taxid: "303", children: [
+								{text:"Pseudomonas putida", leaf: true, checked: false, rollup: true, common_name: "303", taxid: "303"}
+						]},
+						{text:"Pseudomonas fluorescens", expanded: true, rollup: true, checked: false, taxid: "294", children: [
+								{text:"Pseudomonas fluorescens", leaf: true, checked: false, rollup: true, common_name: "294", taxid: "294"}
+						]},
+						{text:"Pseudomonas syringae group genomosp. 3", expanded: true, rollup: true, checked: false, taxid: "251701", children: [
+								{text:"Pseudomonas syringae pv. tomato str. DC3000", leaf: true, checked: false, rollup: true, common_name: "223283", taxid: "223283"},
+								{text:"Pseudomonas syringae pv. maculicola", leaf: true, checked: false, rollup: true, common_name: "59511", taxid: "59511"}
+						]},
+						{text:"Pseudomonas protegens", expanded: true, rollup: true, checked: false, taxid: "380021", children: [
+								{text:"Pseudomonas protegens Pf-5", leaf: true, checked: false, rollup: true, common_name: "220664", taxid: "220664"}
+						]},
+						{text:"Pseudomonas aeruginosa", expanded: true, rollup: true, checked: false, taxid: "287", children: [
+								{text:"Pseudomonas aeruginosa PAO1", leaf: true, checked: false, rollup: true, common_name: "208964", taxid: "208964"},
+								{text:"Pseudomonas aeruginosa", leaf: true, checked: false, rollup: true, common_name: "287", taxid: "287"}
+						]}
+					]}
+				]},
+				{text:"Moraxellaceae", expanded: true, rollup: false, checked: false, taxid: "468", children: [
+					{text:"Moraxella", expanded: true, rollup: false, checked: false, taxid: "46225", children: [
+						{text:"Moraxella catarrhalis", expanded: true, rollup: true, checked: false, taxid: "480", children: [
+								{text:"Moraxella catarrhalis", leaf: true, checked: false, rollup: true, common_name: "480", taxid: "480"}
+						]}
+					]},
+					{text:"Acinetobacter", expanded: true, rollup: false, checked: false, taxid: "469", children: [
+						{text:"Acinetobacter sp. ADP1", expanded: true, rollup: true, checked: false, taxid: "62977", children: [
+								{text:"Acinetobacter sp. ADP1", leaf: true, checked: false, rollup: true, common_name: "62977", taxid: "62977"}
+						]}
+					]}
+				]}
+			]}
+		]},
+		{text:"Betaproteobacteria", expanded: false, rollup: false, checked: false, taxid: "28216", children: [
+			{text:"Burkholderiales", expanded: true, rollup: false, checked: false, taxid: "80840", children: [
+				{text:"Alcaligenaceae", expanded: true, rollup: false, checked: false, taxid: "506", children: [
+					{text:"Bordetella", expanded: true, rollup: false, checked: false, taxid: "517", children: [
+						{text:"Bordetella pertussis", expanded: true, rollup: true, checked: false, taxid: "520", children: [
+								{text:"Bordetella pertussis Tohama I", leaf: true, checked: false, rollup: true, common_name: "257313", taxid: "257313"}
+						]}
+					]}
+				]},
+				{text:"Burkholderiaceae", expanded: true, rollup: false, checked: false, taxid: "119060", children: [
+					{text:"Burkholderia", expanded: true, rollup: false, checked: false, taxid: "32008", children: [
+						{text:"Burkholderia cepacia", expanded: true, rollup: true, checked: false, taxid: "292", children: [
+								{text:"Burkholderia cepacia", leaf: true, checked: false, rollup: true, common_name: "292", taxid: "292"}
+						]}
+					]},
+					{text:"Cupriavidus", expanded: true, rollup: false, checked: false, taxid: "106589", children: [
+						{text:"Cupriavidus necator", expanded: true, rollup: true, checked: false, taxid: "106590", children: [
+								{text:"Ralstonia eutropha H16", leaf: true, checked: false, rollup: true, common_name: "381666", taxid: "381666"}
+						]}
+					]}
+				]}
+			]},
+			{text:"Neisseriales", expanded: true, rollup: false, checked: false, taxid: "206351", children: [
+				{text:"Neisseriaceae", expanded: true, rollup: false, checked: false, taxid: "481", children: [
+					{text:"Neisseria", expanded: true, rollup: false, checked: false, taxid: "482", children: [
+						{text:"Neisseria meningitidis", expanded: true, rollup: true, checked: false, taxid: "487", children: [
+								{text:"Neisseria meningitidis FAM18", leaf: true, checked: false, rollup: true, common_name: "272831", taxid: "272831"},
+								{text:"Neisseria meningitidis alpha14", leaf: true, checked: false, rollup: true, common_name: "662598", taxid: "662598"}
+						]},
+						{text:"Neisseria gonorrhoeae", expanded: true, rollup: true, checked: false, taxid: "485", children: [
+								{text:"Neisseria gonorrhoeae", leaf: true, checked: false, rollup: true, common_name: "485", taxid: "485"}
+						]}
+					]}
+				]}
+			]}
+		]},
+		{text:"Deltaproteobacteria", expanded: false, rollup: false, checked: false, taxid: "28221", children: [
+			{text:"Myxococcales", expanded: true, rollup: false, checked: false, taxid: "29", children: [
+				{text:"Myxococcaceae", expanded: true, rollup: false, checked: false, taxid: "31", children: [
+					{text:"Myxococcus", expanded: true, rollup: false, checked: false, taxid: "32", children: [
+						{text:"Myxococcus xanthus", expanded: true, rollup: true, checked: false, taxid: "34", children: [
+								{text:"Myxococcus xanthus DK 1622", leaf: true, checked: false, rollup: true, common_name: "246197", taxid: "246197"}
+						]}
+					]},
+					{text:"Anaeromyxobacter", expanded: true, rollup: false, checked: false, taxid: "161492", children: [
+						{text:"Anaeromyxobacter dehalogenans", expanded: true, rollup: true, checked: false, taxid: "161493", children: [
+								{text:"Anaeromyxobacter dehalogenans 2CP-C", leaf: true, checked: false, rollup: true, common_name: "290397", taxid: "290397"}
+						]}
+					]}
+				]}
+			]},
+			{text:"Desulfovibrionales", expanded: true, rollup: false, checked: false, taxid: "213115", children: [
+				{text:"Desulfovibrionaceae", expanded: true, rollup: false, checked: false, taxid: "194924", children: [
+					{text:"Desulfovibrio", expanded: true, rollup: false, checked: false, taxid: "872", children: [
+						{text:"Desulfovibrio vulgaris", expanded: true, rollup: true, checked: false, taxid: "881", children: [
+								{text:"Desulfovibrio vulgaris str. 'Miyazaki F'", leaf: true, checked: false, rollup: true, common_name: "883", taxid: "883"},
+								{text:"Desulfovibrio vulgaris str. Hildenborough", leaf: true, checked: false, rollup: true, common_name: "882", taxid: "882"}
+						]}
+					]}
+				]}
+			]}
+		]}
+	]},
+	{text:"uncultured bacterium", expanded: false, rollup: false, checked: false, taxid: "77133", children: [
+			{text:"uncultured bacterium", leaf: true, checked: false, rollup: true, common_name: "77133", taxid: "77133"}
+	]},
+	{text:"Spirochaetes", expanded: false, rollup: false, checked: false, taxid: "203692", children: [
+		{text:"Spirochaetia", expanded: false, rollup: false, checked: false, taxid: "203692", children: [
+			{text:"Spirochaetales", expanded: true, rollup: false, checked: false, taxid: "136", children: [
+				{text:"Spirochaetaceae", expanded: true, rollup: false, checked: false, taxid: "137", children: [
+					{text:"Borrelia", expanded: true, rollup: false, checked: false, taxid: "138", children: [
+						{text:"Borrelia burgdorferi", expanded: true, rollup: true, checked: false, taxid: "139", children: [
+								{text:"Borrelia burgdorferi B31", leaf: true, checked: false, rollup: true, common_name: "224326", taxid: "224326"}
+						]}
+					]},
+					{text:"Treponema", expanded: true, rollup: false, checked: false, taxid: "157", children: [
+						{text:"Treponema pallidum", expanded: true, rollup: true, checked: false, taxid: "160", children: [
+								{text:"Treponema pallidum subsp. pallidum str. Nichols", leaf: true, checked: false, rollup: true, common_name: "243276", taxid: "243276"}
+						]},
+						{text:"Treponema denticola", expanded: true, rollup: true, checked: false, taxid: "158", children: [
+								{text:"Treponema denticola", leaf: true, checked: false, rollup: true, common_name: "158", taxid: "158"}
+						]}
+					]}
+				]}
+			]}
+		]}
+	]},
+	{text:"Firmicutes", expanded: false, rollup: false, checked: false, taxid: "1239", children: [
+		{text:"Clostridia", expanded: false, rollup: false, checked: false, taxid: "186801", children: [
+			{text:"Clostridiales", expanded: true, rollup: false, checked: false, taxid: "186802", children: [
+				{text:"Peptostreptococcaceae", expanded: true, rollup: false, checked: false, taxid: "186804", children: [
+					{text:"[Clostridium] sticklandii", expanded: true, rollup: false, checked: false, taxid: "1511", children: [
+							{text:"Clostridium sticklandii DSM 519", leaf: true, checked: false, rollup: true, common_name: "499177", taxid: "499177"}
+					]},
+					{text:"[Clostridium] difficile", expanded: true, rollup: false, checked: false, taxid: "1496", children: [
+							{text:"Clostridium difficile R20291", leaf: true, checked: false, rollup: true, common_name: "645463", taxid: "645463"},
+							{text:"[Clostridium] difficile", leaf: true, checked: false, rollup: true, common_name: "1496", taxid: "1496"}
+					]}
+				]},
+				{text:"Clostridiaceae", expanded: true, rollup: false, checked: false, taxid: "31979", children: [
+					{text:"Clostridium", expanded: true, rollup: false, checked: false, taxid: "1485", children: [
+						{text:"Clostridium botulinum", expanded: true, rollup: true, checked: false, taxid: "1491", children: [
+								{text:"Clostridium botulinum", leaf: true, checked: false, rollup: true, common_name: "1491", taxid: "1491"},
+								{text:"Clostridium botulinum A2 str. Kyoto", leaf: true, checked: false, rollup: true, common_name: "536232", taxid: "536232"}
+						]},
+						{text:"Clostridium perfringens", expanded: true, rollup: true, checked: false, taxid: "1502", children: [
+								{text:"Clostridium perfringens D str. JGS1721", leaf: true, checked: false, rollup: true, common_name: "488537", taxid: "488537"},
+								{text:"Clostridium perfringens str. 13", leaf: true, checked: false, rollup: true, common_name: "195102", taxid: "195102"},
+								{text:"Clostridium perfringens", leaf: true, checked: false, rollup: true, common_name: "1502", taxid: "1502"}
+						]},
+						{text:"Clostridium thermocellum", expanded: true, rollup: true, checked: false, taxid: "1515", children: [
+								{text:"Clostridium thermocellum ATCC 27405", leaf: true, checked: false, rollup: true, common_name: "203119", taxid: "203119"}
+						]}
+					]}
+				]}
+			]}
+		]},
+		{text:"Bacilli", expanded: false, rollup: false, checked: false, taxid: "91061", children: [
+			{text:"Lactobacillales", expanded: true, rollup: false, checked: false, taxid: "186826", children: [
+				{text:"Streptococcaceae", expanded: true, rollup: false, checked: false, taxid: "1300", children: [
+					{text:"Streptococcus", expanded: true, rollup: false, checked: false, taxid: "1301", children: [
+						{text:"Streptococcus pneumoniae", expanded: true, rollup: true, checked: false, taxid: "1313", children: [
+								{text:"Streptococcus pneumoniae", leaf: true, checked: false, rollup: true, common_name: "1313", taxid: "1313"},
+								{text:"Streptococcus pneumoniae TIGR4", leaf: true, checked: false, rollup: true, common_name: "170187", taxid: "170187"},
+								{text:"Streptococcus pneumoniae G54", leaf: true, checked: false, rollup: true, common_name: "512566", taxid: "512566"}
+						]},
+						{text:"Streptococcus parasanguinis", expanded: true, rollup: true, checked: false, taxid: "1318", children: [
+								{text:"Streptococcus parasanguinis", leaf: true, checked: false, rollup: true, common_name: "1318", taxid: "1318"}
+						]},
+						{text:"Streptococcus dysgalactiae", expanded: true, rollup: true, checked: false, taxid: "1334", children: [
+								{text:"Streptococcus dysgalactiae subsp. equisimilis", leaf: true, checked: false, rollup: true, common_name: "119602", taxid: "119602"}
+						]},
+						{text:"Streptococcus pyogenes", expanded: true, rollup: true, checked: false, taxid: "1314", children: [
+								{text:"Streptococcus pyogenes", leaf: true, checked: false, rollup: true, common_name: "1314", taxid: "1314"},
+								{text:"Streptococcus pyogenes MGAS10394", leaf: true, checked: false, rollup: true, common_name: "286636", taxid: "286636"}
+						]}
+					]},
+					{text:"Lactococcus", expanded: true, rollup: false, checked: false, taxid: "1357", children: [
+						{text:"Lactococcus lactis", expanded: true, rollup: true, checked: false, taxid: "1358", children: [
+								{text:"Lactococcus lactis subsp. cremoris MG1363", leaf: true, checked: false, rollup: true, common_name: "416870", taxid: "416870"},
+								{text:"Lactococcus lactis subsp. lactis", leaf: true, checked: false, rollup: true, common_name: "1360", taxid: "1360"}
+						]}
+					]}
+				]},
+				{text:"Enterococcaceae", expanded: true, rollup: false, checked: false, taxid: "81852", children: [
+					{text:"Enterococcus", expanded: true, rollup: false, checked: false, taxid: "1350", children: [
+						{text:"Enterococcus faecalis", expanded: true, rollup: true, checked: false, taxid: "1351", children: [
+								{text:"Enterococcus faecalis", leaf: true, checked: false, rollup: true, common_name: "1351", taxid: "1351"},
+								{text:"Enterococcus faecalis V583", leaf: true, checked: false, rollup: true, common_name: "226185", taxid: "226185"}
+						]}
+					]}
+				]},
+				{text:"Lactobacillaceae", expanded: true, rollup: false, checked: false, taxid: "33958", children: [
+					{text:"Lactobacillus", expanded: true, rollup: false, checked: false, taxid: "1578", children: [
+						{text:"Lactobacillus sakei", expanded: true, rollup: true, checked: false, taxid: "1599", children: [
+								{text:"Lactobacillus sakei subsp. sakei 23K", leaf: true, checked: false, rollup: true, common_name: "314315", taxid: "314315"}
+						]}
+					]}
+				]}
+			]},
+			{text:"Bacillales", expanded: true, rollup: false, checked: false, taxid: "1385", children: [
+				{text:"Staphylococcaceae", expanded: true, rollup: false, checked: false, taxid: "90964", children: [
+					{text:"Staphylococcus", expanded: true, rollup: false, checked: false, taxid: "1279", children: [
+						{text:"Staphylococcus epidermidis", expanded: true, rollup: true, checked: false, taxid: "1282", children: [
+								{text:"Staphylococcus epidermidis", leaf: true, checked: false, rollup: true, common_name: "1282", taxid: "1282"}
+						]},
+						{text:"Staphylococcus aureus", expanded: true, rollup: true, checked: false, taxid: "1280", children: [
+								{text:"Staphylococcus aureus subsp. aureus Mu50", leaf: true, checked: false, rollup: true, common_name: "158878", taxid: "158878"},
+								{text:"Staphylococcus aureus", leaf: true, checked: false, rollup: true, common_name: "1280", taxid: "1280"},
+								{text:"Staphylococcus aureus subsp. aureus N315", leaf: true, checked: false, rollup: true, common_name: "158879", taxid: "158879"},
+								{text:"Staphylococcus aureus subsp. aureus NCTC 8325", leaf: true, checked: false, rollup: true, common_name: "93061", taxid: "93061"}
+						]}
+					]}
+				]},
+				{text:"Bacillaceae", expanded: true, rollup: false, checked: false, taxid: "186817", children: [
+					{text:"Geobacillus", expanded: true, rollup: false, checked: false, taxid: "129337", children: [
+						{text:"Geobacillus stearothermophilus", expanded: true, rollup: true, checked: false, taxid: "1422", children: [
+								{text:"Geobacillus stearothermophilus", leaf: true, checked: false, rollup: true, common_name: "1422", taxid: "1422"}
+						]}
+					]},
+					{text:"Bacillus", expanded: true, rollup: false, checked: false, taxid: "55087", children: [
+						{text:"Bacillus amyloliquefaciens", expanded: true, rollup: true, checked: false, taxid: "1390", children: [
+								{text:"Bacillus amyloliquefaciens FZB42", leaf: true, checked: false, rollup: true, common_name: "326423", taxid: "326423"},
+								{text:"Bacillus amyloliquefaciens", leaf: true, checked: false, rollup: true, common_name: "1390", taxid: "1390"}
+						]},
+						{text:"Bacillus subtilis", expanded: true, rollup: true, checked: false, taxid: "1423", children: [
+								{text:"Bacillus subtilis subsp. subtilis str. JH642", leaf: true, checked: false, rollup: true, common_name: "535025", taxid: "535025"},
+								{text:"Bacillus subtilis subsp. subtilis str. 168", leaf: true, checked: false, rollup: true, common_name: "224308", taxid: "224308"},
+								{text:"Bacillus subtilis subsp. spizizenii ATCC 6633", leaf: true, checked: false, rollup: true, common_name: "703612", taxid: "703612"}
+						]},
+						{text:"Bacillus anthracis", expanded: true, rollup: true, checked: false, taxid: "1392", children: [
+								{text:"Bacillus anthracis str. A2012", leaf: true, checked: false, rollup: true, common_name: "191218", taxid: "191218"},
+								{text:"Bacillus anthracis str. Sterne", leaf: true, checked: false, rollup: true, common_name: "260799", taxid: "260799"},
+								{text:"Bacillus anthracis str. 'Ames Ancestor'", leaf: true, checked: false, rollup: true, common_name: "261594", taxid: "261594"},
+								{text:"Bacillus anthracis str. Ames", leaf: true, checked: false, rollup: true, common_name: "198094", taxid: "198094"},
+								{text:"Bacillus anthracis", leaf: true, checked: false, rollup: true, common_name: "anthrax bacterium", taxid: "1392"}
+						]}
+					]}
+				]},
+				{text:"Listeriaceae", expanded: true, rollup: false, checked: false, taxid: "186820", children: [
+					{text:"Listeria", expanded: true, rollup: false, checked: false, taxid: "1637", children: [
+						{text:"Listeria monocytogenes", expanded: true, rollup: true, checked: false, taxid: "1639", children: [
+								{text:"Listeria monocytogenes EGD-e", leaf: true, checked: false, rollup: true, common_name: "169963", taxid: "169963"}
+						]}
+					]}
+				]}
+			]}
+		]},
+		{text:"Negativicutes", expanded: false, rollup: false, checked: false, taxid: "909932", children: [
+			{text:"Selenomonadales", expanded: true, rollup: false, checked: false, taxid: "909929", children: [
+				{text:"Acidaminococcaceae", expanded: true, rollup: false, checked: false, taxid: "909930", children: [
+					{text:"Acidaminococcus", expanded: true, rollup: false, checked: false, taxid: "904", children: [
+						{text:"Acidaminococcus fermentans", expanded: true, rollup: true, checked: false, taxid: "905", children: [
+								{text:"Acidaminococcus fermentans DSM 20731", leaf: true, checked: false, rollup: true, common_name: "591001", taxid: "591001"}
+						]}
+					]}
+				]}
+			]}
+		]}
+	]},
+	{text:"Cyanobacteria", expanded: false, rollup: false, checked: false, taxid: "1117", children: [
+		{text:"Nostocales", expanded: false, rollup: false, checked: false, taxid: "1161", children: [
+			{text:"Nostocaceae", expanded: true, rollup: false, checked: false, taxid: "1162", children: [
+				{text:"Nostoc", expanded: true, rollup: false, checked: false, taxid: "1177", children: [
+					{text:"Nostoc sp. PCC 7120", expanded: true, rollup: false, checked: false, taxid: "103690", children: [
+							{text:"Nostoc sp. PCC 7120", leaf: true, checked: false, rollup: true, common_name: "103690", taxid: "103690"}
+					]}
+				]}
+			]}
+		]},
+		{text:"Chroococcales", expanded: false, rollup: false, checked: false, taxid: "1118", children: [
+			{text:"Synechocystis", expanded: true, rollup: false, checked: false, taxid: "1142", children: [
+				{text:"Synechocystis sp. PCC 6803", expanded: true, rollup: false, checked: false, taxid: "1148", children: [
+						{text:"Synechocystis sp. PCC 6803", leaf: true, checked: false, rollup: true, common_name: "1148", taxid: "1148"}
+				]}
+			]},
+			{text:"Synechococcus", expanded: true, rollup: false, checked: false, taxid: "1129", children: [
+				{text:"Synechococcus sp. PCC 7002", expanded: true, rollup: false, checked: false, taxid: "32049", children: [
+						{text:"Synechococcus sp. PCC 7002", leaf: true, checked: false, rollup: true, common_name: "32049", taxid: "32049"}
+				]},
+				{text:"Synechococcus elongatus", expanded: true, rollup: false, checked: false, taxid: "32046", children: [
+						{text:"Synechococcus elongatus PCC 6301", leaf: true, checked: false, rollup: true, common_name: "269084", taxid: "269084"},
+						{text:"Synechococcus elongatus PCC 7942", leaf: true, checked: false, rollup: true, common_name: "1140", taxid: "1140"}
+				]}
+			]},
+			{text:"Thermosynechococcus", expanded: true, rollup: false, checked: false, taxid: "146785", children: [
+				{text:"Thermosynechococcus elongatus", expanded: true, rollup: false, checked: false, taxid: "146786", children: [
+						{text:"Thermosynechococcus elongatus BP-1", leaf: true, checked: false, rollup: true, common_name: "197221", taxid: "197221"}
+				]}
+			]}
+		]}
+	]},
+	{text:"Tenericutes", expanded: false, rollup: false, checked: false, taxid: "544448", children: [
+		{text:"Mollicutes", expanded: false, rollup: false, checked: false, taxid: "31969", children: [
+			{text:"Mycoplasmatales", expanded: true, rollup: false, checked: false, taxid: "2085", children: [
+				{text:"Mycoplasmataceae", expanded: true, rollup: false, checked: false, taxid: "2092", children: [
+					{text:"Mycoplasma", expanded: true, rollup: false, checked: false, taxid: "2093", children: [
+						{text:"Mycoplasma pneumoniae", expanded: true, rollup: true, checked: false, taxid: "2104", children: [
+								{text:"Mycoplasma pneumoniae M129", leaf: true, checked: false, rollup: true, common_name: "272634", taxid: "272634"}
+						]}
+					]}
+				]}
+			]}
+		]}
+	]},
+	{text:"Thermotogae", expanded: false, rollup: false, checked: false, taxid: "200918", children: [
+		{text:"Thermotogae", expanded: false, rollup: false, checked: false, taxid: "200918", children: [
+			{text:"Thermotogales", expanded: true, rollup: false, checked: false, taxid: "2419", children: [
+				{text:"Thermotogaceae", expanded: true, rollup: false, checked: false, taxid: "188709", children: [
+					{text:"Thermotoga", expanded: true, rollup: false, checked: false, taxid: "2335", children: [
+						{text:"Thermotoga maritima", expanded: true, rollup: true, checked: false, taxid: "2336", children: [
+								{text:"Thermotoga maritima MSB8", leaf: true, checked: false, rollup: true, common_name: "243274", taxid: "243274"}
+						]}
+					]}
+				]}
+			]}
+		]}
+	]},
+	{text:"Deinococcus-Thermus", expanded: false, rollup: false, checked: false, taxid: "1297", children: [
+		{text:"Deinococci", expanded: false, rollup: false, checked: false, taxid: "188787", children: [
+			{text:"Thermales", expanded: true, rollup: false, checked: false, taxid: "68933", children: [
+				{text:"Thermaceae", expanded: true, rollup: false, checked: false, taxid: "188786", children: [
+					{text:"Thermus", expanded: true, rollup: false, checked: false, taxid: "270", children: [
+						{text:"Thermus thermophilus", expanded: true, rollup: true, checked: false, taxid: "274", children: [
+								{text:"Thermus thermophilus", leaf: true, checked: false, rollup: true, common_name: "274", taxid: "274"},
+								{text:"Thermus thermophilus HB27", leaf: true, checked: false, rollup: true, common_name: "262724", taxid: "262724"},
+								{text:"Thermus thermophilus HB8", leaf: true, checked: false, rollup: true, common_name: "300852", taxid: "300852"}
+						]}
+					]}
+				]}
+			]}
+		]}
+	]}
+]}

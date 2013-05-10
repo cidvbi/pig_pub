@@ -1,0 +1,11 @@
+{
+	success: true,
+	items: [
+		{id: "virdb", name: "Viruses", color: "ff6666", shape: "diamond"},
+		{id: "patric", name: "Bacteria", color: "99ccff", shape: "ellipse"},
+		{id: "eupath", name: "Eukaryotic pathogens", color: "ff9966", shape: "rectangle"},
+		{id: "vectordb", name: "Vectors", color: "cccc00", shape: "vee"},
+		{id: "portal", name: "Hosts", color: "66ff66", shape: "triangle"}
+	]
+}
+

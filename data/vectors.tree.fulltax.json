@@ -1,0 +1,28 @@
+{text:"Eukaryota", expanded: true, rollup: false, checked: false, taxid: "2759", children: [
+	{text:"Metazoa", expanded: false, rollup: false, checked: false, taxid: "33208", children: [
+		{text:"Arthropoda", expanded: false, rollup: false, checked: false, taxid: "6656", children: [
+			{text:"Insecta", expanded: true, rollup: false, checked: false, taxid: "50557", children: [
+				{text:"Diptera", expanded: true, rollup: false, checked: false, taxid: "7147", children: [
+					{text:"Culicidae", expanded: true, rollup: false, checked: false, taxid: "7157", children: [
+						{text:"Aedes", expanded: true, rollup: true, checked: false, taxid: "149531", children: [
+							{text:"Aedes aegypti", expanded: true, rollup: true, checked: false, taxid: "7159", children: [
+									{text:"Aedes aegypti", leaf: true, checked: false, rollup: true, common_name: "yellow fever mosquito", taxid: "7159"}
+							]}
+						]}
+					]}
+				]}
+			]},
+			{text:"Arachnida", expanded: true, rollup: false, checked: false, taxid: "6854", children: [
+				{text:"Ixodida", expanded: true, rollup: false, checked: false, taxid: "6935", children: [
+					{text:"Ixodidae", expanded: true, rollup: false, checked: false, taxid: "6939", children: [
+						{text:"Ixodes", expanded: true, rollup: true, checked: false, taxid: "6944", children: [
+							{text:"Ixodes scapularis", expanded: true, rollup: true, checked: false, taxid: "6945", children: [
+									{text:"Ixodes scapularis", leaf: true, checked: false, rollup: true, common_name: "black-legged tick", taxid: "6945"}
+							]}
+						]}
+					]}
+				]}
+			]}
+		]}
+	]}
+]}

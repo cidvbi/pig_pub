@@ -1,0 +1,24 @@
+{text:"Eukaryota", expanded: true, rollup: false, checked: false, taxid: "2759", children: [
+	{text:"Apicomplexa", expanded: false, rollup: false, checked: false, taxid: "5794", children: [
+		{text:"Aconoidasida", expanded: false, rollup: false, checked: false, taxid: "422676", children: [
+			{text:"Haemosporida", expanded: true, rollup: false, checked: false, taxid: "5819", children: [
+				{text:"Plasmodium", expanded: true, rollup: false, checked: false, taxid: "418103", children: [
+					{text:"Plasmodium falciparum", expanded: true, rollup: true, checked: false, taxid: "5833", children: [
+							{text:"Plasmodium falciparum 3D7", leaf: true, checked: false, rollup: true, common_name: "36329", taxid: "36329"}
+					]}
+				]}
+			]}
+		]},
+		{text:"Coccidia", expanded: false, rollup: false, checked: false, taxid: "5796", children: [
+			{text:"Eucoccidiorida", expanded: true, rollup: false, checked: false, taxid: "75739", children: [
+				{text:"Cryptosporidiidae", expanded: true, rollup: false, checked: false, taxid: "35082", children: [
+					{text:"Cryptosporidium", expanded: true, rollup: true, checked: false, taxid: "5806", children: [
+						{text:"Cryptosporidium parvum", expanded: true, rollup: true, checked: false, taxid: "5807", children: [
+								{text:"Cryptosporidium parvum Iowa II", leaf: true, checked: false, rollup: true, common_name: "353152", taxid: "353152"}
+						]}
+					]}
+				]}
+			]}
+		]}
+	]}
+]}

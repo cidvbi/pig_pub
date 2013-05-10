@@ -1,0 +1,155 @@
+.p-graph-legend{
+	background-color: #ffffff;
+	padding: 12px;
+	color: #555555;
+}
+
+.p-graph-legend .entry-wrap{
+	height: 25px;
+	margin: 10px 0 40px 0;
+	padding-top: 15px;
+	/*border-top: 1px solid #aeaeae;*/
+}
+
+.p-graph-legend .entry-wrap .x-item-selected{
+	background-color: #8db2e3;
+}
+
+.p-graph-legend .entry-wrap .x-item-over{
+	border: 1px solid #8db2e3;
+}
+
+.p-graph-legend .thumb{
+	float: left;
+	margin-right: 8px;
+}
+
+.p-graph-legend .title{
+	float: left;
+	padding-top:3px;
+}
+
+
+.legend_panel .x-panel-header-text {
+	color: #053369;
+	font-style: italic;
+}
+
+.p-filter-body {
+	font-size: 9px;
+	color: #999;
+}
+
+.filter_panel .x-panel-header-text {
+	color: #053369;
+	font-style: italic;
+}
+
+.empty_facet_content {
+	color: #aaa;
+}
+
+
+.p-btn-off {
+  background-color: #DBEEFF;
+  background-image: -webkit-linear-gradient(bottom, #DBEEFF, #D0E7FF 48%, #BBD2F0 52%, #BED6F5);
+  background-image: -moz-linear-gradient(bottom, #DBEEFF, #D0E7FF 48%, #BBD2F0 52%, #BED6F5);
+  background-image: -ms-linear-gradient(bottom, #DBEEFF, #D0E7FF 48%, #BBD2F0 52%, #BED6F5);
+  background-image: -o-linear-gradient(bottom, #DBEEFF, #D0E7FF 48%, #BBD2F0 52%, #BED6F5);
+  background-image: linear-gradient(to top, #DBEEFF, #D0E7FF 48%, #BBD2F0 52%, #BED6F5);
+  border-color: #81A4D0;
+}
+
+.p-btn-over {
+  background-color: #DBEEFF;
+  background-image: -webkit-linear-gradient(top, #DBEEFF, #D0E7FF 48%, #BBD2F0 52%, #BED6F5);
+  background-image: -moz-linear-gradient(top, #DBEEFF, #D0E7FF 48%, #BBD2F0 52%, #BED6F5);
+  background-image: -ms-linear-gradient(top, #DBEEFF, #D0E7FF 48%, #BBD2F0 52%, #BED6F5);
+  background-image: -o-linear-gradient(top, #DBEEFF, #D0E7FF 48%, #BBD2F0 52%, #BED6F5);
+  background-image: linear-gradient(to bottom, #DBEEFF, #D0E7FF 48%, #BBD2F0 52%, #BED6F5);
+  border-color: #81A4D0;
+}
+
+
+.status_msg {
+	color: #000;
+	font-size: 11px;
+}
+
+.grid_title {
+	color: rgb(21, 73, 139);
+	font-weight: bold;
+}
+
+.grid-cell-ba .x-grid-cell-inner {
+	/*background-color: #99ccff;*/
+	background-color: rgba(153,204,255, 0.3);
+}
+
+.grid-cell-vi .x-grid-cell-inner {
+	/*background-color: #ff6666;*/
+	background-color: rgba(255,102,102, 0.3);
+}
+
+.grid-cell-ve .x-grid-cell-inner {
+	/*background-color: #cccc00;*/
+	background-color: rgba(204,204,0, 0.3);
+}
+
+.grid-cell-ho .x-grid-cell-inner {
+	/*background-color: #66ff66;*/
+	background-color: rgba(102,255,102, 0.3);
+}
+
+.grid-cell-eu .x-grid-cell-inner {
+	/*background-color: #ff9966;*/
+	background-color: rgba(255,153,102, 0.3);
+}
+
+
+/*
+.p-graph-loadmask{
+	margin-top: 10px;
+	margin-left: 10px;
+	padding: 5px 5px 5px 45px;
+	font: 12px Arial, Helvetica, sans-serif;
+	font-style: italic;
+	vertical-align: middle;
+	background-color: transparent;
+	background-image:url(../images/blue-loading.gif) !important;
+	background-repeat: no-repeat;
+	background-position: left center;
+}
+
+
+.p-btn-download {
+	background-image:url(../images/p-btn-download.png) !important;
+}
+
+.p-btn-search {
+	background-image:url(../images/p-btn-search.png) !important;
+}
+
+.p-reporter-update {
+	color: #555 !important;
+}
+
+.p-graph-type {
+	color: #1F1F93 !important;
+	font-weight: bold !important;
+}
+
+
+.p-msg-taxgraph {
+	background: none repeat scroll 0 0 #C9FACE !important;
+	font: 12px Arial, Helvetica, sans-serif;
+	color: #444 !important;
+}
+
+.p-msg-ppigraph {
+	background: none repeat scroll 0 0 #ffffff !important;
+	font: 12px Arial, Helvetica, sans-serif;
+	color: #444 !important;
+}
+*/
+
