@@ -8,9 +8,8 @@
  * @this {Connect}
  */
 var Connect={
-//descendants((2,10239,5794,33208))&between()&keyword()&facet((sort,+taxid_a))&limit(0,0)
 
-	apiUrl: 'http://ravenhill.vbi.vt.edu:8888/pig/',
+	apiUrl: 'http://example.api.com/',
 	
 	makeInteractionsRequestURL: function(params) {
 		//console.log('Connect.makeInteractionsRequestURL');
